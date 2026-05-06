@@ -10,16 +10,16 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   final settings = await AppSettingsStore.instance.load();
   setServerBaseUrlOverride(settings.serverBaseUrl);
-  runApp(const FlutterScreensTestApp());
+  runApp(const SproutEnglishApp());
 }
 
-class FlutterScreensTestApp extends StatelessWidget {
-  const FlutterScreensTestApp({super.key});
+class SproutEnglishApp extends StatelessWidget {
+  const SproutEnglishApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'AI English Learning - HTML Exact Copy',
+      title: 'Sprout English',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,

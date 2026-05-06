@@ -38,7 +38,7 @@ from app.metrics import metrics_store
 from app.rate_limit import speech_turn_rate_limiter
 
 
-from app.config_loader import settings
+from app.config_loader import settings, get_cors_origins, get_cors_allow_credentials
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, func, delete
  # [NEW] 임베딩 & 벡터스토어 + SRS 관련 import
@@ -134,7 +134,7 @@ DEFAULT_TTS_VOICE = 'nova'
 DEFAULT_TTS_SPEED = '1.0'
 
 
-_cors = getattr(settings, 'CORS_ORIGINS', ['*'])
+_cors = get_cors_origins()
 
 _static_dir = getattr(settings, 'STORAGE_LOCAL_PATH', DEFAULT_STORAGE_LOCAL_PATH)
 
@@ -237,7 +237,13 @@ _limiter = _Limiter(
     window_sec=_env_int("CHAT_WS_WINDOW_SEC", 60),
     skip_local_ip=_env_bool("CHAT_WS_SKIP_LOCAL_IP", False),
 )
-app.add_middleware(CORSMiddleware, allow_origins=_cors, allow_credentials=True, allow_methods=['*'], allow_headers=['*'])
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=_cors,
+    allow_credentials=get_cors_allow_credentials(),
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 app.include_router(writing.router)
 app.mount("/static", StaticFiles(directory=_static_dir, html=False), name="static")

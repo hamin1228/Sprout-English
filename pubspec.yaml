@@ -1,5 +1,5 @@
 name: english_ai
-description: "A new Flutter project."
+description: "AI-powered English speaking and writing learning app built with Flutter and FastAPI."
 publish_to: 'none'
 version: 1.0.0+1
 
