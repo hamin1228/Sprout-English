@@ -1,0 +1,22 @@
+{
+  "canonical_tags": [
+    "grammar/tense",
+    "grammar/article",
+    "grammar/preposition",
+    "vocabulary/word_choice",
+    "pronunciation/segment",
+    "fluency/hesitation",
+    "register/politeness"
+  ],
+  "aliases": {
+    "tense": "grammar/tense",
+    "verb_tense": "grammar/tense",
+    "article": "grammar/article",
+    "冠詞": "grammar/article",
+    "prep": "grammar/preposition",
+    "wording": "vocabulary/word_choice",
+    "pron/segment": "pronunciation/segment",
+    "uhm": "fluency/hesitation",
+    "too_direct": "register/politeness"
+  }
+}

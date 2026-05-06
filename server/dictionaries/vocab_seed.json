@@ -1,0 +1,6302 @@
+[
+  {
+    "lemma": "accept",
+    "meaning_ko": "받아들이다",
+    "example_en": "This sentence uses the word accept.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "account",
+    "meaning_ko": "계정, 거래처",
+    "example_en": "This sentence uses the word account.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "address",
+    "meaning_ko": "주소; 연설하다",
+    "example_en": "This sentence uses the word address.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "advertisement",
+    "meaning_ko": "광고",
+    "example_en": "This sentence uses the word advertisement.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "agenda",
+    "meaning_ko": "의제, 일정",
+    "example_en": "This sentence uses the word agenda.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "airport",
+    "meaning_ko": "공항",
+    "example_en": "This sentence uses the word airport.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "appointment",
+    "meaning_ko": "약속, 예약",
+    "example_en": "This sentence uses the word appointment.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "assistant",
+    "meaning_ko": "보조원",
+    "example_en": "This sentence uses the word assistant.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "attach",
+    "meaning_ko": "첨부하다",
+    "example_en": "This sentence uses the word attach.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "balance",
+    "meaning_ko": "잔액; 균형",
+    "example_en": "This sentence uses the word balance.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bargain",
+    "meaning_ko": "흥정; 특가품",
+    "example_en": "This sentence uses the word bargain.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bill",
+    "meaning_ko": "청구서",
+    "example_en": "This sentence uses the word bill.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "branch",
+    "meaning_ko": "지점",
+    "example_en": "This sentence uses the word branch.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "budget",
+    "meaning_ko": "예산",
+    "example_en": "This sentence uses the word budget.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "buyer",
+    "meaning_ko": "구매자",
+    "example_en": "This sentence uses the word buyer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cancel",
+    "meaning_ko": "취소하다",
+    "example_en": "This sentence uses the word cancel.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "cashier",
+    "meaning_ko": "계산원",
+    "example_en": "This sentence uses the word cashier.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "catalog",
+    "meaning_ko": "목록, 카탈로그",
+    "example_en": "This sentence uses the word catalog.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "client",
+    "meaning_ko": "고객, 의뢰인",
+    "example_en": "This sentence uses the word client.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "clerk",
+    "meaning_ko": "사무원",
+    "example_en": "This sentence uses the word clerk.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "collect",
+    "meaning_ko": "수집하다; 징수하다",
+    "example_en": "This sentence uses the word collect.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "company",
+    "meaning_ko": "회사",
+    "example_en": "This sentence uses the word company.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "confirm",
+    "meaning_ko": "확인하다",
+    "example_en": "This sentence uses the word confirm.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "contact",
+    "meaning_ko": "연락하다; 연락처",
+    "example_en": "This sentence uses the word contact.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "contract",
+    "meaning_ko": "계약",
+    "example_en": "This sentence uses the word contract.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "copy",
+    "meaning_ko": "사본; 복사하다",
+    "example_en": "This sentence uses the word copy.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cost",
+    "meaning_ko": "비용",
+    "example_en": "This sentence uses the word cost.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "customer",
+    "meaning_ko": "고객",
+    "example_en": "This sentence uses the word customer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delay",
+    "meaning_ko": "지연; 지연시키다",
+    "example_en": "This sentence uses the word delay.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delivery",
+    "meaning_ko": "배송",
+    "example_en": "This sentence uses the word delivery.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "department",
+    "meaning_ko": "부서",
+    "example_en": "This sentence uses the word department.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "discount",
+    "meaning_ko": "할인",
+    "example_en": "This sentence uses the word discount.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "document",
+    "meaning_ko": "문서",
+    "example_en": "This sentence uses the word document.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "driver",
+    "meaning_ko": "운전사",
+    "example_en": "This sentence uses the word driver.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "employee",
+    "meaning_ko": "직원",
+    "example_en": "This sentence uses the word employee.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "accept",
+    "meaning_ko": "받아들이다",
+    "example_en": "This sentence uses the word accept.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "account",
+    "meaning_ko": "계정, 거래처",
+    "example_en": "This sentence uses the word account.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "address",
+    "meaning_ko": "주소; 연설하다",
+    "example_en": "This sentence uses the word address.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "advertisement",
+    "meaning_ko": "광고",
+    "example_en": "This sentence uses the word advertisement.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "agenda",
+    "meaning_ko": "의제, 일정",
+    "example_en": "This sentence uses the word agenda.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "airport",
+    "meaning_ko": "공항",
+    "example_en": "This sentence uses the word airport.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "appointment",
+    "meaning_ko": "약속, 예약",
+    "example_en": "This sentence uses the word appointment.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "assistant",
+    "meaning_ko": "보조원",
+    "example_en": "This sentence uses the word assistant.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "attach",
+    "meaning_ko": "첨부하다",
+    "example_en": "This sentence uses the word attach.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "balance",
+    "meaning_ko": "잔액; 균형",
+    "example_en": "This sentence uses the word balance.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bargain",
+    "meaning_ko": "흥정; 특가품",
+    "example_en": "This sentence uses the word bargain.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bill",
+    "meaning_ko": "청구서",
+    "example_en": "This sentence uses the word bill.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "branch",
+    "meaning_ko": "지점",
+    "example_en": "This sentence uses the word branch.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "budget",
+    "meaning_ko": "예산",
+    "example_en": "This sentence uses the word budget.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "buyer",
+    "meaning_ko": "구매자",
+    "example_en": "This sentence uses the word buyer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cancel",
+    "meaning_ko": "취소하다",
+    "example_en": "This sentence uses the word cancel.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "cashier",
+    "meaning_ko": "계산원",
+    "example_en": "This sentence uses the word cashier.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "catalog",
+    "meaning_ko": "목록, 카탈로그",
+    "example_en": "This sentence uses the word catalog.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "client",
+    "meaning_ko": "고객, 의뢰인",
+    "example_en": "This sentence uses the word client.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "clerk",
+    "meaning_ko": "사무원",
+    "example_en": "This sentence uses the word clerk.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "collect",
+    "meaning_ko": "수집하다; 징수하다",
+    "example_en": "This sentence uses the word collect.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "company",
+    "meaning_ko": "회사",
+    "example_en": "This sentence uses the word company.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "confirm",
+    "meaning_ko": "확인하다",
+    "example_en": "This sentence uses the word confirm.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "contact",
+    "meaning_ko": "연락하다; 연락처",
+    "example_en": "This sentence uses the word contact.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "contract",
+    "meaning_ko": "계약",
+    "example_en": "This sentence uses the word contract.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "copy",
+    "meaning_ko": "사본; 복사하다",
+    "example_en": "This sentence uses the word copy.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cost",
+    "meaning_ko": "비용",
+    "example_en": "This sentence uses the word cost.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "customer",
+    "meaning_ko": "고객",
+    "example_en": "This sentence uses the word customer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delay",
+    "meaning_ko": "지연; 지연시키다",
+    "example_en": "This sentence uses the word delay.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delivery",
+    "meaning_ko": "배송",
+    "example_en": "This sentence uses the word delivery.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "department",
+    "meaning_ko": "부서",
+    "example_en": "This sentence uses the word department.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "discount",
+    "meaning_ko": "할인",
+    "example_en": "This sentence uses the word discount.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "document",
+    "meaning_ko": "문서",
+    "example_en": "This sentence uses the word document.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "driver",
+    "meaning_ko": "운전사",
+    "example_en": "This sentence uses the word driver.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "employee",
+    "meaning_ko": "직원",
+    "example_en": "This sentence uses the word employee.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "accept",
+    "meaning_ko": "받아들이다",
+    "example_en": "This sentence uses the word accept.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "account",
+    "meaning_ko": "계정, 거래처",
+    "example_en": "This sentence uses the word account.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "address",
+    "meaning_ko": "주소; 연설하다",
+    "example_en": "This sentence uses the word address.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "advertisement",
+    "meaning_ko": "광고",
+    "example_en": "This sentence uses the word advertisement.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "agenda",
+    "meaning_ko": "의제, 일정",
+    "example_en": "This sentence uses the word agenda.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "airport",
+    "meaning_ko": "공항",
+    "example_en": "This sentence uses the word airport.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "appointment",
+    "meaning_ko": "약속, 예약",
+    "example_en": "This sentence uses the word appointment.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "assistant",
+    "meaning_ko": "보조원",
+    "example_en": "This sentence uses the word assistant.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "attach",
+    "meaning_ko": "첨부하다",
+    "example_en": "This sentence uses the word attach.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "balance",
+    "meaning_ko": "잔액; 균형",
+    "example_en": "This sentence uses the word balance.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bargain",
+    "meaning_ko": "흥정; 특가품",
+    "example_en": "This sentence uses the word bargain.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bill",
+    "meaning_ko": "청구서",
+    "example_en": "This sentence uses the word bill.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "branch",
+    "meaning_ko": "지점",
+    "example_en": "This sentence uses the word branch.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "budget",
+    "meaning_ko": "예산",
+    "example_en": "This sentence uses the word budget.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "buyer",
+    "meaning_ko": "구매자",
+    "example_en": "This sentence uses the word buyer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cancel",
+    "meaning_ko": "취소하다",
+    "example_en": "This sentence uses the word cancel.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "cashier",
+    "meaning_ko": "계산원",
+    "example_en": "This sentence uses the word cashier.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "catalog",
+    "meaning_ko": "목록, 카탈로그",
+    "example_en": "This sentence uses the word catalog.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "client",
+    "meaning_ko": "고객, 의뢰인",
+    "example_en": "This sentence uses the word client.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "clerk",
+    "meaning_ko": "사무원",
+    "example_en": "This sentence uses the word clerk.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "collect",
+    "meaning_ko": "수집하다; 징수하다",
+    "example_en": "This sentence uses the word collect.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "company",
+    "meaning_ko": "회사",
+    "example_en": "This sentence uses the word company.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "confirm",
+    "meaning_ko": "확인하다",
+    "example_en": "This sentence uses the word confirm.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "contact",
+    "meaning_ko": "연락하다; 연락처",
+    "example_en": "This sentence uses the word contact.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "contract",
+    "meaning_ko": "계약",
+    "example_en": "This sentence uses the word contract.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "copy",
+    "meaning_ko": "사본; 복사하다",
+    "example_en": "This sentence uses the word copy.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cost",
+    "meaning_ko": "비용",
+    "example_en": "This sentence uses the word cost.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "customer",
+    "meaning_ko": "고객",
+    "example_en": "This sentence uses the word customer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delay",
+    "meaning_ko": "지연; 지연시키다",
+    "example_en": "This sentence uses the word delay.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delivery",
+    "meaning_ko": "배송",
+    "example_en": "This sentence uses the word delivery.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "department",
+    "meaning_ko": "부서",
+    "example_en": "This sentence uses the word department.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "discount",
+    "meaning_ko": "할인",
+    "example_en": "This sentence uses the word discount.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "document",
+    "meaning_ko": "문서",
+    "example_en": "This sentence uses the word document.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "driver",
+    "meaning_ko": "운전사",
+    "example_en": "This sentence uses the word driver.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "employee",
+    "meaning_ko": "직원",
+    "example_en": "This sentence uses the word employee.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "accept",
+    "meaning_ko": "받아들이다",
+    "example_en": "This sentence uses the word accept.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "account",
+    "meaning_ko": "계정, 거래처",
+    "example_en": "This sentence uses the word account.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "address",
+    "meaning_ko": "주소; 연설하다",
+    "example_en": "This sentence uses the word address.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "advertisement",
+    "meaning_ko": "광고",
+    "example_en": "This sentence uses the word advertisement.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "agenda",
+    "meaning_ko": "의제, 일정",
+    "example_en": "This sentence uses the word agenda.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "airport",
+    "meaning_ko": "공항",
+    "example_en": "This sentence uses the word airport.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "appointment",
+    "meaning_ko": "약속, 예약",
+    "example_en": "This sentence uses the word appointment.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "assistant",
+    "meaning_ko": "보조원",
+    "example_en": "This sentence uses the word assistant.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "attach",
+    "meaning_ko": "첨부하다",
+    "example_en": "This sentence uses the word attach.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "balance",
+    "meaning_ko": "잔액; 균형",
+    "example_en": "This sentence uses the word balance.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bargain",
+    "meaning_ko": "흥정; 특가품",
+    "example_en": "This sentence uses the word bargain.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bill",
+    "meaning_ko": "청구서",
+    "example_en": "This sentence uses the word bill.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "branch",
+    "meaning_ko": "지점",
+    "example_en": "This sentence uses the word branch.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "budget",
+    "meaning_ko": "예산",
+    "example_en": "This sentence uses the word budget.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "buyer",
+    "meaning_ko": "구매자",
+    "example_en": "This sentence uses the word buyer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cancel",
+    "meaning_ko": "취소하다",
+    "example_en": "This sentence uses the word cancel.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "cashier",
+    "meaning_ko": "계산원",
+    "example_en": "This sentence uses the word cashier.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "catalog",
+    "meaning_ko": "목록, 카탈로그",
+    "example_en": "This sentence uses the word catalog.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "client",
+    "meaning_ko": "고객, 의뢰인",
+    "example_en": "This sentence uses the word client.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "clerk",
+    "meaning_ko": "사무원",
+    "example_en": "This sentence uses the word clerk.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "collect",
+    "meaning_ko": "수집하다; 징수하다",
+    "example_en": "This sentence uses the word collect.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "company",
+    "meaning_ko": "회사",
+    "example_en": "This sentence uses the word company.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "confirm",
+    "meaning_ko": "확인하다",
+    "example_en": "This sentence uses the word confirm.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "contact",
+    "meaning_ko": "연락하다; 연락처",
+    "example_en": "This sentence uses the word contact.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "contract",
+    "meaning_ko": "계약",
+    "example_en": "This sentence uses the word contract.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "copy",
+    "meaning_ko": "사본; 복사하다",
+    "example_en": "This sentence uses the word copy.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cost",
+    "meaning_ko": "비용",
+    "example_en": "This sentence uses the word cost.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "customer",
+    "meaning_ko": "고객",
+    "example_en": "This sentence uses the word customer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delay",
+    "meaning_ko": "지연; 지연시키다",
+    "example_en": "This sentence uses the word delay.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delivery",
+    "meaning_ko": "배송",
+    "example_en": "This sentence uses the word delivery.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "department",
+    "meaning_ko": "부서",
+    "example_en": "This sentence uses the word department.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "discount",
+    "meaning_ko": "할인",
+    "example_en": "This sentence uses the word discount.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "document",
+    "meaning_ko": "문서",
+    "example_en": "This sentence uses the word document.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "driver",
+    "meaning_ko": "운전사",
+    "example_en": "This sentence uses the word driver.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "employee",
+    "meaning_ko": "직원",
+    "example_en": "This sentence uses the word employee.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "accept",
+    "meaning_ko": "받아들이다",
+    "example_en": "This sentence uses the word accept.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "account",
+    "meaning_ko": "계정, 거래처",
+    "example_en": "This sentence uses the word account.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "address",
+    "meaning_ko": "주소; 연설하다",
+    "example_en": "This sentence uses the word address.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "advertisement",
+    "meaning_ko": "광고",
+    "example_en": "This sentence uses the word advertisement.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "agenda",
+    "meaning_ko": "의제, 일정",
+    "example_en": "This sentence uses the word agenda.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "airport",
+    "meaning_ko": "공항",
+    "example_en": "This sentence uses the word airport.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "appointment",
+    "meaning_ko": "약속, 예약",
+    "example_en": "This sentence uses the word appointment.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "assistant",
+    "meaning_ko": "보조원",
+    "example_en": "This sentence uses the word assistant.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "attach",
+    "meaning_ko": "첨부하다",
+    "example_en": "This sentence uses the word attach.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "balance",
+    "meaning_ko": "잔액; 균형",
+    "example_en": "This sentence uses the word balance.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bargain",
+    "meaning_ko": "흥정; 특가품",
+    "example_en": "This sentence uses the word bargain.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bill",
+    "meaning_ko": "청구서",
+    "example_en": "This sentence uses the word bill.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "branch",
+    "meaning_ko": "지점",
+    "example_en": "This sentence uses the word branch.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "budget",
+    "meaning_ko": "예산",
+    "example_en": "This sentence uses the word budget.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "buyer",
+    "meaning_ko": "구매자",
+    "example_en": "This sentence uses the word buyer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cancel",
+    "meaning_ko": "취소하다",
+    "example_en": "This sentence uses the word cancel.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "cashier",
+    "meaning_ko": "계산원",
+    "example_en": "This sentence uses the word cashier.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "catalog",
+    "meaning_ko": "목록, 카탈로그",
+    "example_en": "This sentence uses the word catalog.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "client",
+    "meaning_ko": "고객, 의뢰인",
+    "example_en": "This sentence uses the word client.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "clerk",
+    "meaning_ko": "사무원",
+    "example_en": "This sentence uses the word clerk.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "collect",
+    "meaning_ko": "수집하다; 징수하다",
+    "example_en": "This sentence uses the word collect.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "company",
+    "meaning_ko": "회사",
+    "example_en": "This sentence uses the word company.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "confirm",
+    "meaning_ko": "확인하다",
+    "example_en": "This sentence uses the word confirm.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "contact",
+    "meaning_ko": "연락하다; 연락처",
+    "example_en": "This sentence uses the word contact.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "contract",
+    "meaning_ko": "계약",
+    "example_en": "This sentence uses the word contract.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "copy",
+    "meaning_ko": "사본; 복사하다",
+    "example_en": "This sentence uses the word copy.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cost",
+    "meaning_ko": "비용",
+    "example_en": "This sentence uses the word cost.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "customer",
+    "meaning_ko": "고객",
+    "example_en": "This sentence uses the word customer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delay",
+    "meaning_ko": "지연; 지연시키다",
+    "example_en": "This sentence uses the word delay.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delivery",
+    "meaning_ko": "배송",
+    "example_en": "This sentence uses the word delivery.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "department",
+    "meaning_ko": "부서",
+    "example_en": "This sentence uses the word department.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "discount",
+    "meaning_ko": "할인",
+    "example_en": "This sentence uses the word discount.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "document",
+    "meaning_ko": "문서",
+    "example_en": "This sentence uses the word document.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "driver",
+    "meaning_ko": "운전사",
+    "example_en": "This sentence uses the word driver.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "employee",
+    "meaning_ko": "직원",
+    "example_en": "This sentence uses the word employee.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "accept",
+    "meaning_ko": "받아들이다",
+    "example_en": "This sentence uses the word accept.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "account",
+    "meaning_ko": "계정, 거래처",
+    "example_en": "This sentence uses the word account.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "address",
+    "meaning_ko": "주소; 연설하다",
+    "example_en": "This sentence uses the word address.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "advertisement",
+    "meaning_ko": "광고",
+    "example_en": "This sentence uses the word advertisement.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "agenda",
+    "meaning_ko": "의제, 일정",
+    "example_en": "This sentence uses the word agenda.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "airport",
+    "meaning_ko": "공항",
+    "example_en": "This sentence uses the word airport.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "appointment",
+    "meaning_ko": "약속, 예약",
+    "example_en": "This sentence uses the word appointment.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "assistant",
+    "meaning_ko": "보조원",
+    "example_en": "This sentence uses the word assistant.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "attach",
+    "meaning_ko": "첨부하다",
+    "example_en": "This sentence uses the word attach.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "balance",
+    "meaning_ko": "잔액; 균형",
+    "example_en": "This sentence uses the word balance.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bargain",
+    "meaning_ko": "흥정; 특가품",
+    "example_en": "This sentence uses the word bargain.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "bill",
+    "meaning_ko": "청구서",
+    "example_en": "This sentence uses the word bill.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "branch",
+    "meaning_ko": "지점",
+    "example_en": "This sentence uses the word branch.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "budget",
+    "meaning_ko": "예산",
+    "example_en": "This sentence uses the word budget.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "buyer",
+    "meaning_ko": "구매자",
+    "example_en": "This sentence uses the word buyer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cancel",
+    "meaning_ko": "취소하다",
+    "example_en": "This sentence uses the word cancel.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "cashier",
+    "meaning_ko": "계산원",
+    "example_en": "This sentence uses the word cashier.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "catalog",
+    "meaning_ko": "목록, 카탈로그",
+    "example_en": "This sentence uses the word catalog.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "client",
+    "meaning_ko": "고객, 의뢰인",
+    "example_en": "This sentence uses the word client.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "clerk",
+    "meaning_ko": "사무원",
+    "example_en": "This sentence uses the word clerk.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "collect",
+    "meaning_ko": "수집하다; 징수하다",
+    "example_en": "This sentence uses the word collect.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "company",
+    "meaning_ko": "회사",
+    "example_en": "This sentence uses the word company.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "confirm",
+    "meaning_ko": "확인하다",
+    "example_en": "This sentence uses the word confirm.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,beginner,verb"
+  },
+  {
+    "lemma": "contact",
+    "meaning_ko": "연락하다; 연락처",
+    "example_en": "This sentence uses the word contact.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "contract",
+    "meaning_ko": "계약",
+    "example_en": "This sentence uses the word contract.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "copy",
+    "meaning_ko": "사본; 복사하다",
+    "example_en": "This sentence uses the word copy.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "cost",
+    "meaning_ko": "비용",
+    "example_en": "This sentence uses the word cost.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "customer",
+    "meaning_ko": "고객",
+    "example_en": "This sentence uses the word customer.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delay",
+    "meaning_ko": "지연; 지연시키다",
+    "example_en": "This sentence uses the word delay.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "delivery",
+    "meaning_ko": "배송",
+    "example_en": "This sentence uses the word delivery.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "department",
+    "meaning_ko": "부서",
+    "example_en": "This sentence uses the word department.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "discount",
+    "meaning_ko": "할인",
+    "example_en": "This sentence uses the word discount.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "document",
+    "meaning_ko": "문서",
+    "example_en": "This sentence uses the word document.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "driver",
+    "meaning_ko": "운전사",
+    "example_en": "This sentence uses the word driver.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "employee",
+    "meaning_ko": "직원",
+    "example_en": "This sentence uses the word employee.",
+    "difficulty": 1,
+    "level": "beginner",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,beginner,noun"
+  },
+  {
+    "lemma": "accommodate",
+    "meaning_ko": "수용하다; 편의를 제공하다",
+    "example_en": "This sentence uses the word accommodate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accomplish",
+    "meaning_ko": "성취하다",
+    "example_en": "This sentence uses the word accomplish.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "acquire",
+    "meaning_ko": "획득하다",
+    "example_en": "This sentence uses the word acquire.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "additional",
+    "meaning_ko": "추가의",
+    "example_en": "This sentence uses the word additional.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "adjust",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word adjust.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "analyze",
+    "meaning_ko": "분석하다",
+    "example_en": "This sentence uses the word analyze.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "annual",
+    "meaning_ko": "연간의",
+    "example_en": "This sentence uses the word annual.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "applicant",
+    "meaning_ko": "지원자",
+    "example_en": "This sentence uses the word applicant.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "appreciate",
+    "meaning_ko": "감사하다; 진가를 알아보다",
+    "example_en": "This sentence uses the word appreciate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "approval",
+    "meaning_ko": "승인",
+    "example_en": "This sentence uses the word approval.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "assign",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word assign.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "assume",
+    "meaning_ko": "가정하다",
+    "example_en": "This sentence uses the word assume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "audit",
+    "meaning_ko": "감사",
+    "example_en": "This sentence uses the word audit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "authorize",
+    "meaning_ko": "권한을 부여하다",
+    "example_en": "This sentence uses the word authorize.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "available",
+    "meaning_ko": "이용 가능한",
+    "example_en": "This sentence uses the word available.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "benefit",
+    "meaning_ko": "이익; 혜택",
+    "example_en": "This sentence uses the word benefit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "calculate",
+    "meaning_ko": "계산하다",
+    "example_en": "This sentence uses the word calculate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "candidate",
+    "meaning_ko": "후보자",
+    "example_en": "This sentence uses the word candidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "capacity",
+    "meaning_ko": "수용력; 용량",
+    "example_en": "This sentence uses the word capacity.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "certify",
+    "meaning_ko": "증명하다",
+    "example_en": "This sentence uses the word certify.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "collaborate",
+    "meaning_ko": "협력하다",
+    "example_en": "This sentence uses the word collaborate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "commission",
+    "meaning_ko": "수수료; 위원회",
+    "example_en": "This sentence uses the word commission.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compensate",
+    "meaning_ko": "보상하다",
+    "example_en": "This sentence uses the word compensate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "complaint",
+    "meaning_ko": "불만, 항의",
+    "example_en": "This sentence uses the word complaint.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compliance",
+    "meaning_ko": "준수",
+    "example_en": "This sentence uses the word compliance.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "consolidate",
+    "meaning_ko": "통합하다",
+    "example_en": "This sentence uses the word consolidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consult",
+    "meaning_ko": "상담하다",
+    "example_en": "This sentence uses the word consult.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consume",
+    "meaning_ko": "소비하다",
+    "example_en": "This sentence uses the word consume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "coordinate",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word coordinate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deadline",
+    "meaning_ko": "마감기한",
+    "example_en": "This sentence uses the word deadline.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "dedicate",
+    "meaning_ko": "헌신하다",
+    "example_en": "This sentence uses the word dedicate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deficit",
+    "meaning_ko": "적자",
+    "example_en": "This sentence uses the word deficit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "designate",
+    "meaning_ko": "지정하다",
+    "example_en": "This sentence uses the word designate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "dispose",
+    "meaning_ko": "처리하다",
+    "example_en": "This sentence uses the word dispose.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "distribute",
+    "meaning_ko": "분배하다",
+    "example_en": "This sentence uses the word distribute.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accommodate",
+    "meaning_ko": "수용하다; 편의를 제공하다",
+    "example_en": "This sentence uses the word accommodate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accomplish",
+    "meaning_ko": "성취하다",
+    "example_en": "This sentence uses the word accomplish.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "acquire",
+    "meaning_ko": "획득하다",
+    "example_en": "This sentence uses the word acquire.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "additional",
+    "meaning_ko": "추가의",
+    "example_en": "This sentence uses the word additional.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "adjust",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word adjust.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "analyze",
+    "meaning_ko": "분석하다",
+    "example_en": "This sentence uses the word analyze.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "annual",
+    "meaning_ko": "연간의",
+    "example_en": "This sentence uses the word annual.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "applicant",
+    "meaning_ko": "지원자",
+    "example_en": "This sentence uses the word applicant.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "appreciate",
+    "meaning_ko": "감사하다; 진가를 알아보다",
+    "example_en": "This sentence uses the word appreciate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "approval",
+    "meaning_ko": "승인",
+    "example_en": "This sentence uses the word approval.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "assign",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word assign.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "assume",
+    "meaning_ko": "가정하다",
+    "example_en": "This sentence uses the word assume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "audit",
+    "meaning_ko": "감사",
+    "example_en": "This sentence uses the word audit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "authorize",
+    "meaning_ko": "권한을 부여하다",
+    "example_en": "This sentence uses the word authorize.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "available",
+    "meaning_ko": "이용 가능한",
+    "example_en": "This sentence uses the word available.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "benefit",
+    "meaning_ko": "이익; 혜택",
+    "example_en": "This sentence uses the word benefit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "calculate",
+    "meaning_ko": "계산하다",
+    "example_en": "This sentence uses the word calculate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "candidate",
+    "meaning_ko": "후보자",
+    "example_en": "This sentence uses the word candidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "capacity",
+    "meaning_ko": "수용력; 용량",
+    "example_en": "This sentence uses the word capacity.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "certify",
+    "meaning_ko": "증명하다",
+    "example_en": "This sentence uses the word certify.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "collaborate",
+    "meaning_ko": "협력하다",
+    "example_en": "This sentence uses the word collaborate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "commission",
+    "meaning_ko": "수수료; 위원회",
+    "example_en": "This sentence uses the word commission.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compensate",
+    "meaning_ko": "보상하다",
+    "example_en": "This sentence uses the word compensate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "complaint",
+    "meaning_ko": "불만, 항의",
+    "example_en": "This sentence uses the word complaint.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compliance",
+    "meaning_ko": "준수",
+    "example_en": "This sentence uses the word compliance.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "consolidate",
+    "meaning_ko": "통합하다",
+    "example_en": "This sentence uses the word consolidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consult",
+    "meaning_ko": "상담하다",
+    "example_en": "This sentence uses the word consult.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consume",
+    "meaning_ko": "소비하다",
+    "example_en": "This sentence uses the word consume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "coordinate",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word coordinate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deadline",
+    "meaning_ko": "마감기한",
+    "example_en": "This sentence uses the word deadline.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "dedicate",
+    "meaning_ko": "헌신하다",
+    "example_en": "This sentence uses the word dedicate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deficit",
+    "meaning_ko": "적자",
+    "example_en": "This sentence uses the word deficit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "designate",
+    "meaning_ko": "지정하다",
+    "example_en": "This sentence uses the word designate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "dispose",
+    "meaning_ko": "처리하다",
+    "example_en": "This sentence uses the word dispose.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "distribute",
+    "meaning_ko": "분배하다",
+    "example_en": "This sentence uses the word distribute.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accommodate",
+    "meaning_ko": "수용하다; 편의를 제공하다",
+    "example_en": "This sentence uses the word accommodate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accomplish",
+    "meaning_ko": "성취하다",
+    "example_en": "This sentence uses the word accomplish.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "acquire",
+    "meaning_ko": "획득하다",
+    "example_en": "This sentence uses the word acquire.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "additional",
+    "meaning_ko": "추가의",
+    "example_en": "This sentence uses the word additional.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "adjust",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word adjust.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "analyze",
+    "meaning_ko": "분석하다",
+    "example_en": "This sentence uses the word analyze.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "annual",
+    "meaning_ko": "연간의",
+    "example_en": "This sentence uses the word annual.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "applicant",
+    "meaning_ko": "지원자",
+    "example_en": "This sentence uses the word applicant.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "appreciate",
+    "meaning_ko": "감사하다; 진가를 알아보다",
+    "example_en": "This sentence uses the word appreciate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "approval",
+    "meaning_ko": "승인",
+    "example_en": "This sentence uses the word approval.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "assign",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word assign.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "assume",
+    "meaning_ko": "가정하다",
+    "example_en": "This sentence uses the word assume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "audit",
+    "meaning_ko": "감사",
+    "example_en": "This sentence uses the word audit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "authorize",
+    "meaning_ko": "권한을 부여하다",
+    "example_en": "This sentence uses the word authorize.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "available",
+    "meaning_ko": "이용 가능한",
+    "example_en": "This sentence uses the word available.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "benefit",
+    "meaning_ko": "이익; 혜택",
+    "example_en": "This sentence uses the word benefit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "calculate",
+    "meaning_ko": "계산하다",
+    "example_en": "This sentence uses the word calculate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "candidate",
+    "meaning_ko": "후보자",
+    "example_en": "This sentence uses the word candidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "capacity",
+    "meaning_ko": "수용력; 용량",
+    "example_en": "This sentence uses the word capacity.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "certify",
+    "meaning_ko": "증명하다",
+    "example_en": "This sentence uses the word certify.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "collaborate",
+    "meaning_ko": "협력하다",
+    "example_en": "This sentence uses the word collaborate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "commission",
+    "meaning_ko": "수수료; 위원회",
+    "example_en": "This sentence uses the word commission.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compensate",
+    "meaning_ko": "보상하다",
+    "example_en": "This sentence uses the word compensate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "complaint",
+    "meaning_ko": "불만, 항의",
+    "example_en": "This sentence uses the word complaint.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compliance",
+    "meaning_ko": "준수",
+    "example_en": "This sentence uses the word compliance.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "consolidate",
+    "meaning_ko": "통합하다",
+    "example_en": "This sentence uses the word consolidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consult",
+    "meaning_ko": "상담하다",
+    "example_en": "This sentence uses the word consult.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consume",
+    "meaning_ko": "소비하다",
+    "example_en": "This sentence uses the word consume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "coordinate",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word coordinate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deadline",
+    "meaning_ko": "마감기한",
+    "example_en": "This sentence uses the word deadline.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "dedicate",
+    "meaning_ko": "헌신하다",
+    "example_en": "This sentence uses the word dedicate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deficit",
+    "meaning_ko": "적자",
+    "example_en": "This sentence uses the word deficit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "designate",
+    "meaning_ko": "지정하다",
+    "example_en": "This sentence uses the word designate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "dispose",
+    "meaning_ko": "처리하다",
+    "example_en": "This sentence uses the word dispose.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "distribute",
+    "meaning_ko": "분배하다",
+    "example_en": "This sentence uses the word distribute.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accommodate",
+    "meaning_ko": "수용하다; 편의를 제공하다",
+    "example_en": "This sentence uses the word accommodate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accomplish",
+    "meaning_ko": "성취하다",
+    "example_en": "This sentence uses the word accomplish.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "acquire",
+    "meaning_ko": "획득하다",
+    "example_en": "This sentence uses the word acquire.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "additional",
+    "meaning_ko": "추가의",
+    "example_en": "This sentence uses the word additional.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "adjust",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word adjust.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "analyze",
+    "meaning_ko": "분석하다",
+    "example_en": "This sentence uses the word analyze.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "annual",
+    "meaning_ko": "연간의",
+    "example_en": "This sentence uses the word annual.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "applicant",
+    "meaning_ko": "지원자",
+    "example_en": "This sentence uses the word applicant.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "appreciate",
+    "meaning_ko": "감사하다; 진가를 알아보다",
+    "example_en": "This sentence uses the word appreciate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "approval",
+    "meaning_ko": "승인",
+    "example_en": "This sentence uses the word approval.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "assign",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word assign.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "assume",
+    "meaning_ko": "가정하다",
+    "example_en": "This sentence uses the word assume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "audit",
+    "meaning_ko": "감사",
+    "example_en": "This sentence uses the word audit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "authorize",
+    "meaning_ko": "권한을 부여하다",
+    "example_en": "This sentence uses the word authorize.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "available",
+    "meaning_ko": "이용 가능한",
+    "example_en": "This sentence uses the word available.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "benefit",
+    "meaning_ko": "이익; 혜택",
+    "example_en": "This sentence uses the word benefit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "calculate",
+    "meaning_ko": "계산하다",
+    "example_en": "This sentence uses the word calculate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "candidate",
+    "meaning_ko": "후보자",
+    "example_en": "This sentence uses the word candidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "capacity",
+    "meaning_ko": "수용력; 용량",
+    "example_en": "This sentence uses the word capacity.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "certify",
+    "meaning_ko": "증명하다",
+    "example_en": "This sentence uses the word certify.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "collaborate",
+    "meaning_ko": "협력하다",
+    "example_en": "This sentence uses the word collaborate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "commission",
+    "meaning_ko": "수수료; 위원회",
+    "example_en": "This sentence uses the word commission.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compensate",
+    "meaning_ko": "보상하다",
+    "example_en": "This sentence uses the word compensate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "complaint",
+    "meaning_ko": "불만, 항의",
+    "example_en": "This sentence uses the word complaint.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compliance",
+    "meaning_ko": "준수",
+    "example_en": "This sentence uses the word compliance.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "consolidate",
+    "meaning_ko": "통합하다",
+    "example_en": "This sentence uses the word consolidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consult",
+    "meaning_ko": "상담하다",
+    "example_en": "This sentence uses the word consult.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consume",
+    "meaning_ko": "소비하다",
+    "example_en": "This sentence uses the word consume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "coordinate",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word coordinate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deadline",
+    "meaning_ko": "마감기한",
+    "example_en": "This sentence uses the word deadline.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "dedicate",
+    "meaning_ko": "헌신하다",
+    "example_en": "This sentence uses the word dedicate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deficit",
+    "meaning_ko": "적자",
+    "example_en": "This sentence uses the word deficit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "designate",
+    "meaning_ko": "지정하다",
+    "example_en": "This sentence uses the word designate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "dispose",
+    "meaning_ko": "처리하다",
+    "example_en": "This sentence uses the word dispose.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "distribute",
+    "meaning_ko": "분배하다",
+    "example_en": "This sentence uses the word distribute.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accommodate",
+    "meaning_ko": "수용하다; 편의를 제공하다",
+    "example_en": "This sentence uses the word accommodate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accomplish",
+    "meaning_ko": "성취하다",
+    "example_en": "This sentence uses the word accomplish.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "acquire",
+    "meaning_ko": "획득하다",
+    "example_en": "This sentence uses the word acquire.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "additional",
+    "meaning_ko": "추가의",
+    "example_en": "This sentence uses the word additional.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "adjust",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word adjust.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "analyze",
+    "meaning_ko": "분석하다",
+    "example_en": "This sentence uses the word analyze.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "annual",
+    "meaning_ko": "연간의",
+    "example_en": "This sentence uses the word annual.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "applicant",
+    "meaning_ko": "지원자",
+    "example_en": "This sentence uses the word applicant.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "appreciate",
+    "meaning_ko": "감사하다; 진가를 알아보다",
+    "example_en": "This sentence uses the word appreciate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "approval",
+    "meaning_ko": "승인",
+    "example_en": "This sentence uses the word approval.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "assign",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word assign.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "assume",
+    "meaning_ko": "가정하다",
+    "example_en": "This sentence uses the word assume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "audit",
+    "meaning_ko": "감사",
+    "example_en": "This sentence uses the word audit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "authorize",
+    "meaning_ko": "권한을 부여하다",
+    "example_en": "This sentence uses the word authorize.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "available",
+    "meaning_ko": "이용 가능한",
+    "example_en": "This sentence uses the word available.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "benefit",
+    "meaning_ko": "이익; 혜택",
+    "example_en": "This sentence uses the word benefit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "calculate",
+    "meaning_ko": "계산하다",
+    "example_en": "This sentence uses the word calculate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "candidate",
+    "meaning_ko": "후보자",
+    "example_en": "This sentence uses the word candidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "capacity",
+    "meaning_ko": "수용력; 용량",
+    "example_en": "This sentence uses the word capacity.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "certify",
+    "meaning_ko": "증명하다",
+    "example_en": "This sentence uses the word certify.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "collaborate",
+    "meaning_ko": "협력하다",
+    "example_en": "This sentence uses the word collaborate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "commission",
+    "meaning_ko": "수수료; 위원회",
+    "example_en": "This sentence uses the word commission.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compensate",
+    "meaning_ko": "보상하다",
+    "example_en": "This sentence uses the word compensate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "complaint",
+    "meaning_ko": "불만, 항의",
+    "example_en": "This sentence uses the word complaint.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compliance",
+    "meaning_ko": "준수",
+    "example_en": "This sentence uses the word compliance.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "consolidate",
+    "meaning_ko": "통합하다",
+    "example_en": "This sentence uses the word consolidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consult",
+    "meaning_ko": "상담하다",
+    "example_en": "This sentence uses the word consult.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consume",
+    "meaning_ko": "소비하다",
+    "example_en": "This sentence uses the word consume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "coordinate",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word coordinate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deadline",
+    "meaning_ko": "마감기한",
+    "example_en": "This sentence uses the word deadline.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "dedicate",
+    "meaning_ko": "헌신하다",
+    "example_en": "This sentence uses the word dedicate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deficit",
+    "meaning_ko": "적자",
+    "example_en": "This sentence uses the word deficit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "designate",
+    "meaning_ko": "지정하다",
+    "example_en": "This sentence uses the word designate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "dispose",
+    "meaning_ko": "처리하다",
+    "example_en": "This sentence uses the word dispose.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "distribute",
+    "meaning_ko": "분배하다",
+    "example_en": "This sentence uses the word distribute.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accommodate",
+    "meaning_ko": "수용하다; 편의를 제공하다",
+    "example_en": "This sentence uses the word accommodate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accomplish",
+    "meaning_ko": "성취하다",
+    "example_en": "This sentence uses the word accomplish.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "acquire",
+    "meaning_ko": "획득하다",
+    "example_en": "This sentence uses the word acquire.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "additional",
+    "meaning_ko": "추가의",
+    "example_en": "This sentence uses the word additional.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "adjust",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word adjust.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "analyze",
+    "meaning_ko": "분석하다",
+    "example_en": "This sentence uses the word analyze.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "annual",
+    "meaning_ko": "연간의",
+    "example_en": "This sentence uses the word annual.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "applicant",
+    "meaning_ko": "지원자",
+    "example_en": "This sentence uses the word applicant.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "appreciate",
+    "meaning_ko": "감사하다; 진가를 알아보다",
+    "example_en": "This sentence uses the word appreciate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "approval",
+    "meaning_ko": "승인",
+    "example_en": "This sentence uses the word approval.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "assign",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word assign.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "assume",
+    "meaning_ko": "가정하다",
+    "example_en": "This sentence uses the word assume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "audit",
+    "meaning_ko": "감사",
+    "example_en": "This sentence uses the word audit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "authorize",
+    "meaning_ko": "권한을 부여하다",
+    "example_en": "This sentence uses the word authorize.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "available",
+    "meaning_ko": "이용 가능한",
+    "example_en": "This sentence uses the word available.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,intermediate,adjective"
+  },
+  {
+    "lemma": "benefit",
+    "meaning_ko": "이익; 혜택",
+    "example_en": "This sentence uses the word benefit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "calculate",
+    "meaning_ko": "계산하다",
+    "example_en": "This sentence uses the word calculate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "candidate",
+    "meaning_ko": "후보자",
+    "example_en": "This sentence uses the word candidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "capacity",
+    "meaning_ko": "수용력; 용량",
+    "example_en": "This sentence uses the word capacity.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "certify",
+    "meaning_ko": "증명하다",
+    "example_en": "This sentence uses the word certify.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "collaborate",
+    "meaning_ko": "협력하다",
+    "example_en": "This sentence uses the word collaborate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "commission",
+    "meaning_ko": "수수료; 위원회",
+    "example_en": "This sentence uses the word commission.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compensate",
+    "meaning_ko": "보상하다",
+    "example_en": "This sentence uses the word compensate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "complaint",
+    "meaning_ko": "불만, 항의",
+    "example_en": "This sentence uses the word complaint.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "compliance",
+    "meaning_ko": "준수",
+    "example_en": "This sentence uses the word compliance.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "consolidate",
+    "meaning_ko": "통합하다",
+    "example_en": "This sentence uses the word consolidate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consult",
+    "meaning_ko": "상담하다",
+    "example_en": "This sentence uses the word consult.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "consume",
+    "meaning_ko": "소비하다",
+    "example_en": "This sentence uses the word consume.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "coordinate",
+    "meaning_ko": "조정하다",
+    "example_en": "This sentence uses the word coordinate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deadline",
+    "meaning_ko": "마감기한",
+    "example_en": "This sentence uses the word deadline.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "dedicate",
+    "meaning_ko": "헌신하다",
+    "example_en": "This sentence uses the word dedicate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "deficit",
+    "meaning_ko": "적자",
+    "example_en": "This sentence uses the word deficit.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,intermediate,noun"
+  },
+  {
+    "lemma": "designate",
+    "meaning_ko": "지정하다",
+    "example_en": "This sentence uses the word designate.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "dispose",
+    "meaning_ko": "처리하다",
+    "example_en": "This sentence uses the word dispose.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "distribute",
+    "meaning_ko": "분배하다",
+    "example_en": "This sentence uses the word distribute.",
+    "difficulty": 2,
+    "level": "intermediate",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,intermediate,verb"
+  },
+  {
+    "lemma": "accelerate",
+    "meaning_ko": "가속하다",
+    "example_en": "This sentence uses the word accelerate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "accumulate",
+    "meaning_ko": "축적하다",
+    "example_en": "This sentence uses the word accumulate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "acknowledge",
+    "meaning_ko": "인정하다",
+    "example_en": "This sentence uses the word acknowledge.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adaptable",
+    "meaning_ko": "적응력 있는",
+    "example_en": "This sentence uses the word adaptable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "administer",
+    "meaning_ko": "관리하다",
+    "example_en": "This sentence uses the word administer.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adverse",
+    "meaning_ko": "불리한",
+    "example_en": "This sentence uses the word adverse.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "advocate",
+    "meaning_ko": "옹호하다",
+    "example_en": "This sentence uses the word advocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "aggregate",
+    "meaning_ko": "총합의; 모으다",
+    "example_en": "This sentence uses the word aggregate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "allocate",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word allocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "ambiguity",
+    "meaning_ko": "모호함",
+    "example_en": "This sentence uses the word ambiguity.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "amend",
+    "meaning_ko": "수정하다",
+    "example_en": "This sentence uses the word amend.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "anticipate",
+    "meaning_ko": "예상하다",
+    "example_en": "This sentence uses the word anticipate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "arbitrary",
+    "meaning_ko": "임의적인",
+    "example_en": "This sentence uses the word arbitrary.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "assess",
+    "meaning_ko": "평가하다",
+    "example_en": "This sentence uses the word assess.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "asset",
+    "meaning_ko": "자산",
+    "example_en": "This sentence uses the word asset.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "attain",
+    "meaning_ko": "달성하다",
+    "example_en": "This sentence uses the word attain.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "attributable",
+    "meaning_ko": "~에 기인한",
+    "example_en": "This sentence uses the word attributable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "authentic",
+    "meaning_ko": "진정한",
+    "example_en": "This sentence uses the word authentic.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "benchmark",
+    "meaning_ko": "기준점",
+    "example_en": "This sentence uses the word benchmark.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "bilateral",
+    "meaning_ko": "양자 간의",
+    "example_en": "This sentence uses the word bilateral.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "capitalize",
+    "meaning_ko": "활용하다; 자본화하다",
+    "example_en": "This sentence uses the word capitalize.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "cautious",
+    "meaning_ko": "신중한",
+    "example_en": "This sentence uses the word cautious.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "coherent",
+    "meaning_ko": "일관성 있는",
+    "example_en": "This sentence uses the word coherent.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "compelling",
+    "meaning_ko": "강력한 설득력의",
+    "example_en": "This sentence uses the word compelling.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "comprehensive",
+    "meaning_ko": "포괄적인",
+    "example_en": "This sentence uses the word comprehensive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "concession",
+    "meaning_ko": "양보; 특허권",
+    "example_en": "This sentence uses the word concession.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "confidential",
+    "meaning_ko": "기밀의",
+    "example_en": "This sentence uses the word confidential.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "consecutive",
+    "meaning_ko": "연속적인",
+    "example_en": "This sentence uses the word consecutive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "constraint",
+    "meaning_ko": "제약",
+    "example_en": "This sentence uses the word constraint.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "contingency",
+    "meaning_ko": "만일의 사태",
+    "example_en": "This sentence uses the word contingency.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "controversial",
+    "meaning_ko": "논란의 여지가 있는",
+    "example_en": "This sentence uses the word controversial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "convene",
+    "meaning_ko": "소집하다",
+    "example_en": "This sentence uses the word convene.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "credible",
+    "meaning_ko": "신뢰할 수 있는",
+    "example_en": "This sentence uses the word credible.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "crucial",
+    "meaning_ko": "결정적인",
+    "example_en": "This sentence uses the word crucial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "cumulative",
+    "meaning_ko": "누적되는",
+    "example_en": "This sentence uses the word cumulative.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "accelerate",
+    "meaning_ko": "가속하다",
+    "example_en": "This sentence uses the word accelerate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "accumulate",
+    "meaning_ko": "축적하다",
+    "example_en": "This sentence uses the word accumulate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "acknowledge",
+    "meaning_ko": "인정하다",
+    "example_en": "This sentence uses the word acknowledge.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adaptable",
+    "meaning_ko": "적응력 있는",
+    "example_en": "This sentence uses the word adaptable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "administer",
+    "meaning_ko": "관리하다",
+    "example_en": "This sentence uses the word administer.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adverse",
+    "meaning_ko": "불리한",
+    "example_en": "This sentence uses the word adverse.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "advocate",
+    "meaning_ko": "옹호하다",
+    "example_en": "This sentence uses the word advocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "aggregate",
+    "meaning_ko": "총합의; 모으다",
+    "example_en": "This sentence uses the word aggregate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "allocate",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word allocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "ambiguity",
+    "meaning_ko": "모호함",
+    "example_en": "This sentence uses the word ambiguity.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "amend",
+    "meaning_ko": "수정하다",
+    "example_en": "This sentence uses the word amend.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "anticipate",
+    "meaning_ko": "예상하다",
+    "example_en": "This sentence uses the word anticipate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "arbitrary",
+    "meaning_ko": "임의적인",
+    "example_en": "This sentence uses the word arbitrary.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "assess",
+    "meaning_ko": "평가하다",
+    "example_en": "This sentence uses the word assess.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "asset",
+    "meaning_ko": "자산",
+    "example_en": "This sentence uses the word asset.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "attain",
+    "meaning_ko": "달성하다",
+    "example_en": "This sentence uses the word attain.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "attributable",
+    "meaning_ko": "~에 기인한",
+    "example_en": "This sentence uses the word attributable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "authentic",
+    "meaning_ko": "진정한",
+    "example_en": "This sentence uses the word authentic.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "benchmark",
+    "meaning_ko": "기준점",
+    "example_en": "This sentence uses the word benchmark.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "bilateral",
+    "meaning_ko": "양자 간의",
+    "example_en": "This sentence uses the word bilateral.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "capitalize",
+    "meaning_ko": "활용하다; 자본화하다",
+    "example_en": "This sentence uses the word capitalize.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "cautious",
+    "meaning_ko": "신중한",
+    "example_en": "This sentence uses the word cautious.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "coherent",
+    "meaning_ko": "일관성 있는",
+    "example_en": "This sentence uses the word coherent.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "compelling",
+    "meaning_ko": "강력한 설득력의",
+    "example_en": "This sentence uses the word compelling.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "comprehensive",
+    "meaning_ko": "포괄적인",
+    "example_en": "This sentence uses the word comprehensive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "concession",
+    "meaning_ko": "양보; 특허권",
+    "example_en": "This sentence uses the word concession.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "confidential",
+    "meaning_ko": "기밀의",
+    "example_en": "This sentence uses the word confidential.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "consecutive",
+    "meaning_ko": "연속적인",
+    "example_en": "This sentence uses the word consecutive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "constraint",
+    "meaning_ko": "제약",
+    "example_en": "This sentence uses the word constraint.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "contingency",
+    "meaning_ko": "만일의 사태",
+    "example_en": "This sentence uses the word contingency.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "controversial",
+    "meaning_ko": "논란의 여지가 있는",
+    "example_en": "This sentence uses the word controversial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "convene",
+    "meaning_ko": "소집하다",
+    "example_en": "This sentence uses the word convene.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "credible",
+    "meaning_ko": "신뢰할 수 있는",
+    "example_en": "This sentence uses the word credible.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "crucial",
+    "meaning_ko": "결정적인",
+    "example_en": "This sentence uses the word crucial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "cumulative",
+    "meaning_ko": "누적되는",
+    "example_en": "This sentence uses the word cumulative.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "accelerate",
+    "meaning_ko": "가속하다",
+    "example_en": "This sentence uses the word accelerate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "accumulate",
+    "meaning_ko": "축적하다",
+    "example_en": "This sentence uses the word accumulate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "acknowledge",
+    "meaning_ko": "인정하다",
+    "example_en": "This sentence uses the word acknowledge.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adaptable",
+    "meaning_ko": "적응력 있는",
+    "example_en": "This sentence uses the word adaptable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "administer",
+    "meaning_ko": "관리하다",
+    "example_en": "This sentence uses the word administer.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adverse",
+    "meaning_ko": "불리한",
+    "example_en": "This sentence uses the word adverse.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "advocate",
+    "meaning_ko": "옹호하다",
+    "example_en": "This sentence uses the word advocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "aggregate",
+    "meaning_ko": "총합의; 모으다",
+    "example_en": "This sentence uses the word aggregate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "allocate",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word allocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "ambiguity",
+    "meaning_ko": "모호함",
+    "example_en": "This sentence uses the word ambiguity.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "amend",
+    "meaning_ko": "수정하다",
+    "example_en": "This sentence uses the word amend.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "anticipate",
+    "meaning_ko": "예상하다",
+    "example_en": "This sentence uses the word anticipate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "arbitrary",
+    "meaning_ko": "임의적인",
+    "example_en": "This sentence uses the word arbitrary.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "assess",
+    "meaning_ko": "평가하다",
+    "example_en": "This sentence uses the word assess.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "asset",
+    "meaning_ko": "자산",
+    "example_en": "This sentence uses the word asset.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "attain",
+    "meaning_ko": "달성하다",
+    "example_en": "This sentence uses the word attain.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "attributable",
+    "meaning_ko": "~에 기인한",
+    "example_en": "This sentence uses the word attributable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "authentic",
+    "meaning_ko": "진정한",
+    "example_en": "This sentence uses the word authentic.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "benchmark",
+    "meaning_ko": "기준점",
+    "example_en": "This sentence uses the word benchmark.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "bilateral",
+    "meaning_ko": "양자 간의",
+    "example_en": "This sentence uses the word bilateral.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "capitalize",
+    "meaning_ko": "활용하다; 자본화하다",
+    "example_en": "This sentence uses the word capitalize.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "cautious",
+    "meaning_ko": "신중한",
+    "example_en": "This sentence uses the word cautious.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "coherent",
+    "meaning_ko": "일관성 있는",
+    "example_en": "This sentence uses the word coherent.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "compelling",
+    "meaning_ko": "강력한 설득력의",
+    "example_en": "This sentence uses the word compelling.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "comprehensive",
+    "meaning_ko": "포괄적인",
+    "example_en": "This sentence uses the word comprehensive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "concession",
+    "meaning_ko": "양보; 특허권",
+    "example_en": "This sentence uses the word concession.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "confidential",
+    "meaning_ko": "기밀의",
+    "example_en": "This sentence uses the word confidential.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "consecutive",
+    "meaning_ko": "연속적인",
+    "example_en": "This sentence uses the word consecutive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "constraint",
+    "meaning_ko": "제약",
+    "example_en": "This sentence uses the word constraint.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "contingency",
+    "meaning_ko": "만일의 사태",
+    "example_en": "This sentence uses the word contingency.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "controversial",
+    "meaning_ko": "논란의 여지가 있는",
+    "example_en": "This sentence uses the word controversial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "convene",
+    "meaning_ko": "소집하다",
+    "example_en": "This sentence uses the word convene.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "credible",
+    "meaning_ko": "신뢰할 수 있는",
+    "example_en": "This sentence uses the word credible.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "crucial",
+    "meaning_ko": "결정적인",
+    "example_en": "This sentence uses the word crucial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "cumulative",
+    "meaning_ko": "누적되는",
+    "example_en": "This sentence uses the word cumulative.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "accelerate",
+    "meaning_ko": "가속하다",
+    "example_en": "This sentence uses the word accelerate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "accumulate",
+    "meaning_ko": "축적하다",
+    "example_en": "This sentence uses the word accumulate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "acknowledge",
+    "meaning_ko": "인정하다",
+    "example_en": "This sentence uses the word acknowledge.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adaptable",
+    "meaning_ko": "적응력 있는",
+    "example_en": "This sentence uses the word adaptable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "administer",
+    "meaning_ko": "관리하다",
+    "example_en": "This sentence uses the word administer.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adverse",
+    "meaning_ko": "불리한",
+    "example_en": "This sentence uses the word adverse.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "advocate",
+    "meaning_ko": "옹호하다",
+    "example_en": "This sentence uses the word advocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "aggregate",
+    "meaning_ko": "총합의; 모으다",
+    "example_en": "This sentence uses the word aggregate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "allocate",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word allocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "ambiguity",
+    "meaning_ko": "모호함",
+    "example_en": "This sentence uses the word ambiguity.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "amend",
+    "meaning_ko": "수정하다",
+    "example_en": "This sentence uses the word amend.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "anticipate",
+    "meaning_ko": "예상하다",
+    "example_en": "This sentence uses the word anticipate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "arbitrary",
+    "meaning_ko": "임의적인",
+    "example_en": "This sentence uses the word arbitrary.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "assess",
+    "meaning_ko": "평가하다",
+    "example_en": "This sentence uses the word assess.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "asset",
+    "meaning_ko": "자산",
+    "example_en": "This sentence uses the word asset.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "attain",
+    "meaning_ko": "달성하다",
+    "example_en": "This sentence uses the word attain.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "attributable",
+    "meaning_ko": "~에 기인한",
+    "example_en": "This sentence uses the word attributable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "authentic",
+    "meaning_ko": "진정한",
+    "example_en": "This sentence uses the word authentic.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "benchmark",
+    "meaning_ko": "기준점",
+    "example_en": "This sentence uses the word benchmark.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "bilateral",
+    "meaning_ko": "양자 간의",
+    "example_en": "This sentence uses the word bilateral.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "capitalize",
+    "meaning_ko": "활용하다; 자본화하다",
+    "example_en": "This sentence uses the word capitalize.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "cautious",
+    "meaning_ko": "신중한",
+    "example_en": "This sentence uses the word cautious.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "coherent",
+    "meaning_ko": "일관성 있는",
+    "example_en": "This sentence uses the word coherent.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "compelling",
+    "meaning_ko": "강력한 설득력의",
+    "example_en": "This sentence uses the word compelling.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "comprehensive",
+    "meaning_ko": "포괄적인",
+    "example_en": "This sentence uses the word comprehensive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "concession",
+    "meaning_ko": "양보; 특허권",
+    "example_en": "This sentence uses the word concession.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "confidential",
+    "meaning_ko": "기밀의",
+    "example_en": "This sentence uses the word confidential.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "consecutive",
+    "meaning_ko": "연속적인",
+    "example_en": "This sentence uses the word consecutive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "constraint",
+    "meaning_ko": "제약",
+    "example_en": "This sentence uses the word constraint.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "contingency",
+    "meaning_ko": "만일의 사태",
+    "example_en": "This sentence uses the word contingency.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "controversial",
+    "meaning_ko": "논란의 여지가 있는",
+    "example_en": "This sentence uses the word controversial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "convene",
+    "meaning_ko": "소집하다",
+    "example_en": "This sentence uses the word convene.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "credible",
+    "meaning_ko": "신뢰할 수 있는",
+    "example_en": "This sentence uses the word credible.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "crucial",
+    "meaning_ko": "결정적인",
+    "example_en": "This sentence uses the word crucial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "cumulative",
+    "meaning_ko": "누적되는",
+    "example_en": "This sentence uses the word cumulative.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "accelerate",
+    "meaning_ko": "가속하다",
+    "example_en": "This sentence uses the word accelerate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "accumulate",
+    "meaning_ko": "축적하다",
+    "example_en": "This sentence uses the word accumulate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "acknowledge",
+    "meaning_ko": "인정하다",
+    "example_en": "This sentence uses the word acknowledge.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adaptable",
+    "meaning_ko": "적응력 있는",
+    "example_en": "This sentence uses the word adaptable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "administer",
+    "meaning_ko": "관리하다",
+    "example_en": "This sentence uses the word administer.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adverse",
+    "meaning_ko": "불리한",
+    "example_en": "This sentence uses the word adverse.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "advocate",
+    "meaning_ko": "옹호하다",
+    "example_en": "This sentence uses the word advocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "aggregate",
+    "meaning_ko": "총합의; 모으다",
+    "example_en": "This sentence uses the word aggregate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "allocate",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word allocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "ambiguity",
+    "meaning_ko": "모호함",
+    "example_en": "This sentence uses the word ambiguity.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "amend",
+    "meaning_ko": "수정하다",
+    "example_en": "This sentence uses the word amend.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "anticipate",
+    "meaning_ko": "예상하다",
+    "example_en": "This sentence uses the word anticipate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "arbitrary",
+    "meaning_ko": "임의적인",
+    "example_en": "This sentence uses the word arbitrary.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "assess",
+    "meaning_ko": "평가하다",
+    "example_en": "This sentence uses the word assess.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "asset",
+    "meaning_ko": "자산",
+    "example_en": "This sentence uses the word asset.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "attain",
+    "meaning_ko": "달성하다",
+    "example_en": "This sentence uses the word attain.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "attributable",
+    "meaning_ko": "~에 기인한",
+    "example_en": "This sentence uses the word attributable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "authentic",
+    "meaning_ko": "진정한",
+    "example_en": "This sentence uses the word authentic.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "benchmark",
+    "meaning_ko": "기준점",
+    "example_en": "This sentence uses the word benchmark.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "bilateral",
+    "meaning_ko": "양자 간의",
+    "example_en": "This sentence uses the word bilateral.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "capitalize",
+    "meaning_ko": "활용하다; 자본화하다",
+    "example_en": "This sentence uses the word capitalize.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "cautious",
+    "meaning_ko": "신중한",
+    "example_en": "This sentence uses the word cautious.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "coherent",
+    "meaning_ko": "일관성 있는",
+    "example_en": "This sentence uses the word coherent.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "compelling",
+    "meaning_ko": "강력한 설득력의",
+    "example_en": "This sentence uses the word compelling.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "comprehensive",
+    "meaning_ko": "포괄적인",
+    "example_en": "This sentence uses the word comprehensive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "concession",
+    "meaning_ko": "양보; 특허권",
+    "example_en": "This sentence uses the word concession.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "confidential",
+    "meaning_ko": "기밀의",
+    "example_en": "This sentence uses the word confidential.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "consecutive",
+    "meaning_ko": "연속적인",
+    "example_en": "This sentence uses the word consecutive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "constraint",
+    "meaning_ko": "제약",
+    "example_en": "This sentence uses the word constraint.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "contingency",
+    "meaning_ko": "만일의 사태",
+    "example_en": "This sentence uses the word contingency.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "controversial",
+    "meaning_ko": "논란의 여지가 있는",
+    "example_en": "This sentence uses the word controversial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "convene",
+    "meaning_ko": "소집하다",
+    "example_en": "This sentence uses the word convene.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "credible",
+    "meaning_ko": "신뢰할 수 있는",
+    "example_en": "This sentence uses the word credible.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "crucial",
+    "meaning_ko": "결정적인",
+    "example_en": "This sentence uses the word crucial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "cumulative",
+    "meaning_ko": "누적되는",
+    "example_en": "This sentence uses the word cumulative.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "accelerate",
+    "meaning_ko": "가속하다",
+    "example_en": "This sentence uses the word accelerate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "accumulate",
+    "meaning_ko": "축적하다",
+    "example_en": "This sentence uses the word accumulate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "acknowledge",
+    "meaning_ko": "인정하다",
+    "example_en": "This sentence uses the word acknowledge.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adaptable",
+    "meaning_ko": "적응력 있는",
+    "example_en": "This sentence uses the word adaptable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "administer",
+    "meaning_ko": "관리하다",
+    "example_en": "This sentence uses the word administer.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "adverse",
+    "meaning_ko": "불리한",
+    "example_en": "This sentence uses the word adverse.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "advocate",
+    "meaning_ko": "옹호하다",
+    "example_en": "This sentence uses the word advocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "aggregate",
+    "meaning_ko": "총합의; 모으다",
+    "example_en": "This sentence uses the word aggregate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "allocate",
+    "meaning_ko": "할당하다",
+    "example_en": "This sentence uses the word allocate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "ambiguity",
+    "meaning_ko": "모호함",
+    "example_en": "This sentence uses the word ambiguity.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "amend",
+    "meaning_ko": "수정하다",
+    "example_en": "This sentence uses the word amend.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "anticipate",
+    "meaning_ko": "예상하다",
+    "example_en": "This sentence uses the word anticipate.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "arbitrary",
+    "meaning_ko": "임의적인",
+    "example_en": "This sentence uses the word arbitrary.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "assess",
+    "meaning_ko": "평가하다",
+    "example_en": "This sentence uses the word assess.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "asset",
+    "meaning_ko": "자산",
+    "example_en": "This sentence uses the word asset.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "attain",
+    "meaning_ko": "달성하다",
+    "example_en": "This sentence uses the word attain.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "attributable",
+    "meaning_ko": "~에 기인한",
+    "example_en": "This sentence uses the word attributable.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "authentic",
+    "meaning_ko": "진정한",
+    "example_en": "This sentence uses the word authentic.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "benchmark",
+    "meaning_ko": "기준점",
+    "example_en": "This sentence uses the word benchmark.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "bilateral",
+    "meaning_ko": "양자 간의",
+    "example_en": "This sentence uses the word bilateral.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "capitalize",
+    "meaning_ko": "활용하다; 자본화하다",
+    "example_en": "This sentence uses the word capitalize.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "cautious",
+    "meaning_ko": "신중한",
+    "example_en": "This sentence uses the word cautious.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "coherent",
+    "meaning_ko": "일관성 있는",
+    "example_en": "This sentence uses the word coherent.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "compelling",
+    "meaning_ko": "강력한 설득력의",
+    "example_en": "This sentence uses the word compelling.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "comprehensive",
+    "meaning_ko": "포괄적인",
+    "example_en": "This sentence uses the word comprehensive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "concession",
+    "meaning_ko": "양보; 특허권",
+    "example_en": "This sentence uses the word concession.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "confidential",
+    "meaning_ko": "기밀의",
+    "example_en": "This sentence uses the word confidential.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "consecutive",
+    "meaning_ko": "연속적인",
+    "example_en": "This sentence uses the word consecutive.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "constraint",
+    "meaning_ko": "제약",
+    "example_en": "This sentence uses the word constraint.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "contingency",
+    "meaning_ko": "만일의 사태",
+    "example_en": "This sentence uses the word contingency.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "noun",
+    "tags": "toeic,advanced,noun"
+  },
+  {
+    "lemma": "controversial",
+    "meaning_ko": "논란의 여지가 있는",
+    "example_en": "This sentence uses the word controversial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "convene",
+    "meaning_ko": "소집하다",
+    "example_en": "This sentence uses the word convene.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "verb",
+    "tags": "toeic,advanced,verb"
+  },
+  {
+    "lemma": "credible",
+    "meaning_ko": "신뢰할 수 있는",
+    "example_en": "This sentence uses the word credible.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "crucial",
+    "meaning_ko": "결정적인",
+    "example_en": "This sentence uses the word crucial.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  },
+  {
+    "lemma": "cumulative",
+    "meaning_ko": "누적되는",
+    "example_en": "This sentence uses the word cumulative.",
+    "difficulty": 3,
+    "level": "advanced",
+    "category": "toeic",
+    "pos": "adjective",
+    "tags": "toeic,advanced,adjective"
+  }
+]

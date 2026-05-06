@@ -1,0 +1,12 @@
+# Optional dependencies for local STT switching server (app.main_local_stt:app)
+
+# Shared runtime for local models
+torch==2.9.0
+torchaudio==2.9.0
+transformers==4.57.6
+
+# Qwen ASR runtime
+qwen-asr>=0.0.6
+
+# Audio decode helpers used by transformers.audio_utils on some formats
+ffmpeg-python>=0.2.0

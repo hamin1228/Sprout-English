@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS scores_toeic_writing (
+  id BIGINT PRIMARY KEY AUTO_INCREMENT,
+  user_id VARCHAR(64) NULL,
+  task_type VARCHAR(16) NOT NULL,
+  prompt_id VARCHAR(64) NOT NULL,
+  prompt_meta JSON NOT NULL,
+  submission JSON NOT NULL,
+  rubric JSON NOT NULL,
+  overall_score INT NOT NULL DEFAULT 0,
+  model_answer LONGTEXT NOT NULL,
+  sentence_feedback JSON NOT NULL,
+  corrections JSON NOT NULL,
+  checklist JSON NOT NULL,
+  next_actions JSON NOT NULL,
+  created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  KEY idx_user (user_id),
+  KEY idx_task_type (task_type),
+  KEY idx_prompt_id (prompt_id),
+  KEY idx_created_at (created_at)
+) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;

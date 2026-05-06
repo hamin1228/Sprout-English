@@ -1,0 +1,56 @@
+{
+  "A1": {
+    "avg_sentence_tokens": 8,
+    "sentence_max_tokens": 12,
+    "target_wpm": 90,
+    "use_contractions": true,
+    "lexicon_ceiling": "A1",
+    "avoid": ["idioms", "phrasal verbs", "subordinate clauses"],
+    "examples": ["I like pizza.", "I went to school yesterday."]
+  },
+  "A2": {
+    "avg_sentence_tokens": 10,
+    "sentence_max_tokens": 14,
+    "target_wpm": 100,
+    "use_contractions": true,
+    "lexicon_ceiling": "A2",
+    "avoid": ["rare idioms", "nested clauses"],
+    "examples": ["I usually study after dinner.", "It was hard, but I finished it."]
+  },
+  "B1": {
+    "avg_sentence_tokens": 14,
+    "sentence_max_tokens": 18,
+    "target_wpm": 115,
+    "use_contractions": true,
+    "lexicon_ceiling": "B1",
+    "avoid": ["culture-specific idioms"],
+    "examples": ["I would rather practice with a partner.", "The main problem is time."]
+  },
+  "B2": {
+    "avg_sentence_tokens": 16,
+    "sentence_max_tokens": 22,
+    "target_wpm": 130,
+    "use_contractions": true,
+    "lexicon_ceiling": "B2",
+    "avoid": ["dense jargon"],
+    "examples": ["I’m confident the benefits outweigh the costs.", "Let’s consider a counter-example."]
+  },
+  "C1": {
+    "avg_sentence_tokens": 18,
+    "sentence_max_tokens": 26,
+    "target_wpm": 145,
+    "use_contractions": true,
+    "lexicon_ceiling": "C1",
+    "avoid": ["overly ornate phrasing"],
+    "examples": ["This approach facilitates more consistent outcomes.", "I acknowledge your point, yet…"]
+  },
+  "C2": {
+    "avg_sentence_tokens": 20,
+    "sentence_max_tokens": 30,
+    "target_wpm": 155,
+    "use_contractions": true,
+    "lexicon_ceiling": "C2",
+    "avoid": ["needless complexity"],
+    "examples": ["Let’s synthesize the evidence concisely.", "The results are broadly generalizable."]
+  }
+}

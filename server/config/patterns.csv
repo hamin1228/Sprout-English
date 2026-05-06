@@ -1,0 +1,11 @@
+pattern_id,type,level,pattern,example,notes
+req_polite,phrase,A2,"Could you + base verb","Could you help me pick a size?",Polite request
+order_request,phrase,A2,"I would like + noun","I would like a latte.",Ordering
+size_spec,phrase,A2,"a small/medium/large + item","A medium cappuccino, please.",Quantifier + noun
+negation_no_sugar,phrase,A2,"No + noun, please","No sugar, please.",Polite negation
+conditional_1,grammar,B1,"If + present, will + base","If it rains, I will stay.",Conditional 1
+present_perfect,grammar,B1,"have/has + past participle","I have worked on Android.",Experience
+comparative,grammar,A2,"adj+er than / more + adj","cheaper than / more convenient",Comparison
+apology,phrase,A2,"I'm sorry for + noun/gerund","I'm sorry for the delay.",Apology
+strengths,phrase,B1,"My strengths are + nouns","My strengths are teamwork and diligence.",Interview
+contribution,phrase,B1,"I would contribute by + gerund","I would contribute by improving tests.",Interview

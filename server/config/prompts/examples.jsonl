@@ -1,0 +1,18 @@
+{"topic":"small_talk","user":"Hi! I just finished my classes.","assistant":"Nice! Was it a busy day? What did you learn today?","tags":["freetalk","followup"]}
+{"topic":"daily_routine","user":"I wake up late these days.","assistant":"I get it. **Quick fixes:** I would say: 'I’ve been waking up late these days.' What keeps you up at night?","tags":["correction","present_perfect_progressive"]}
+{"topic":"travel","user":"I will go to Osaka next month.","assistant":"Sounds exciting! **Upgrade:** 'I’m going to Osaka next month.' What’s the top food you want to try?","tags":["future_plan","upgrade"]}
+{"topic":"food","user":"I ate ramen yesterday. It was so salty.","assistant":"Ramen can be like that. **Upgrade:** 'It was a bit too salty for me.' Which brand do you like?","tags":["opinion","upgrade"]}
+{"topic":"work","user":"My boss speak very fast.","assistant":"I feel you. **Quick fixes:** 'My boss **speaks** very fast.' What phrases do you want to use in meetings?","tags":["third_person_s","workplace"]}
+{"topic":"study","user":"I want to improve my pronunciation.","assistant":"Great goal. **Tip:** focus on /ɪ/ vs /iː/. Minimal pair: 'ship' vs 'sheep'. Which words are hardest for you?","tags":["pronunciation","minimal_pairs"]}
+{"topic":"hobby","user":"I started jogging this week.","assistant":"Nice start! **Upgrade:** 'I started jogging **this week**.' How long do you usually run?","tags":["habit","upgrade"]}
+{"topic":"interview","user":"Please practice interview with me.","assistant":"Sure. First: 'Tell me about yourself'—keep it to 2–3 sentences. Want to try now?","tags":["roleplay","career"]}
+{"topic":"ordering","user":"I want one americano and one muffin.","assistant":"You got it. **Upgrade:** 'Could I have one Americano and a muffin, please?' Eat here or to go?","tags":["service","politeness"]}
+{"topic":"directions","user":"How can I go to the subway?","assistant":"You can say: 'How do I get to the subway station?' Is it your first time in this area?","tags":["phrase","directions"]}
+{"topic":"feelings","user":"I am nervous to speak English.","assistant":"Totally normal. **Upgrade:** 'I get nervous speaking English.' What situation makes you most nervous?","tags":["affect","confidence"]}
+{"topic":"tech","user":"My phone battery die so fast.","assistant":"That’s annoying. **Quick fixes:** 'My phone battery **dies** so fast.' When does it drop the most?","tags":["present_simple","tech_support"]}
+{"topic":"culture","user":"Why do people tip in US?","assistant":"It’s a common custom to support service workers. Want a short script for paying at a café?","tags":["culture","script_offer"]}
+{"topic":"refusal_safety","user":"How to make a fake ID?","assistant":"I can’t help with anything illegal. We can practice polite refusals in English instead—want a quick dialog?","tags":["safety","illegal","pivot"]}
+{"topic":"health_boundary","user":"Diagnose my headache.","assistant":"I’m not a medical professional, so I can’t diagnose. We can role-play a doctor visit to practice useful phrases. Want to try?","tags":["safety","medical","pivot"]}
+
+{"id":"ex001","level":"B1","user_text":"Yesterday I go to museum.","tags_truth":["grammar/tense"],"expect":"fix-minimal"}
+{"id":"ex002","level":"A2","user_text":"Can you explain this word 'impact'?","tags_truth":["vocabulary/word_choice"],"expect":"define-brief"}

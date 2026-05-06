@@ -1,0 +1,4 @@
+{
+  "A": { "fewshot": 0, "max_examples": 0, "bullet": false, "ack_limit": 12 },
+  "B": { "fewshot": 2, "max_examples": 1, "bullet": true,  "ack_limit": 12 }
+}

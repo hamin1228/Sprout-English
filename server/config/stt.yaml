@@ -1,0 +1,25 @@
+# server/config/stt.yaml
+sample_rate: 16000
+channels: 1
+
+filter:
+  highpass_hz: 100      # 저주파(헝~) 제거
+  order: 4
+
+vad:
+  frame_ms: 25          # RMS 프레임
+  hop_ms: 10
+  min_seg_ms: 300       # 최소 세그먼트 길이(너무 짧으면 버림)
+  silence_gap_ms: 1200  # ▲ 핵심: 세그먼트 경계 (무음 ≥1.2s)
+  rms_thresh_dbfs: -45  # 동적 임계 하한 (dBFS), 환경에 따라 조정
+  rms_percentile: 0.25  # 바닥 잡는 퍼센타일(0~1), 동적 기준
+
+dictionary:
+  enable: true
+  max_distance: 1       # 편집거리 허용(단어 길이≤6에서 1 권장)
+  case_insensitive: true
+
+sentence:
+  join_short_seg_ms: 800   # 너무 짧은 세그먼트는 앞/뒤와 합침
+  max_gap_merge_ms: 300    # 세그먼트 사이 간격이 작으면 결합
+  punct_merge: true        # 구두점 없는 짧은 구절은 결합

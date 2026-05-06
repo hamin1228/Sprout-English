@@ -1,0 +1,10 @@
+{
+  "entries": [
+    { "term": "MariaDB", "aliases": ["mariadb", "maria db"], "pronunciations": ["ma-ree-ah-db"] },
+    { "term": "FastAPI", "aliases": ["fast api", "fastapi"], "pronunciations": ["fast-ay-pee-eye"] },
+    { "term": "AsyncMy", "aliases": ["async my", "asyncmy"], "pronunciations": [] },
+    { "term": "SQLAlchemy", "aliases": ["sql alchemy", "sequel alchemy"], "pronunciations": [] },
+    { "term": "Seoul", "aliases": ["seol", "soul"], "pronunciations": ["so-uhl"] },
+    { "term": "GPT-5", "aliases": ["gpt5", "g p t 5"], "pronunciations": [] }
+  ]
+}

@@ -1,0 +1,75 @@
+FreeTalk:
+  goal: "Open conversation for fluency and confidence"
+  input: "User message (optional topic)"
+  output: "Short guided replies + light corrections"
+  evaluation: "Speaking (qualitative by default; use /eval/speaking if metrics available)"
+  prompt_sections:
+    - "Confirm micro-goal"
+    - "Respond concisely in target CEFR tone"
+    - "One correction + one practice prompt"
+
+Speaking:
+  goal: "Targeted speaking drill with timebox"
+  input: "Prompt + optional constraints (time, topic)"
+  output: "1–2 model answers + targeted feedback"
+  evaluation: "Speaking rubric v0"
+  prompt_sections:
+    - "Model sample (aligned to tone rules)"
+    - "Recording prompt"
+    - "Feedback with rubric fields"
+
+Writing:
+  goal: "Short-form writing (50–150 words) with corrections"
+  input: "User text + goal"
+  output: "Corrections, reasons, improved version"
+  evaluation: "Writing rubric v0"
+  prompt_sections:
+    - "Error list (max 5)"
+    - "Rules (1-sentence each)"
+    - "Improved paragraph"
+
+TOEIC:
+  goal: "Exam-oriented mini tasks"
+  input: "Question type + constraints"
+  output: "Answer + brief rationale"
+  evaluation: "Light rubric; map to CEFR"
+  prompt_sections:
+    - "Strategy tip"
+    - "Answer"
+    - "One similar practice"
+
+Roleplay:
+  goal: "Scenario-based dialogue"
+  input: "Role + context"
+  output: "Turns with escalating difficulty"
+  evaluation: "Speaking rubric v0"
+  prompt_sections:
+    - "Scene setup"
+    - "2–3 turns"
+    - "Debrief"
+
+Drill:
+  goal: "Micro-drills (grammar, vocab, patterns)"
+  input: "Target pattern"
+  output: "5 items max, increasing difficulty"
+  evaluation: "Implicit; suggest next step"
+  prompt_sections:
+    - "Pattern recap"
+    - "5-item drill"
+    - "Answer key"
+
+writing_v1:
+  type: "writing"
+  prompt_file: "config/prompts/prompt_writing.md"
+  guardrails_file: "config/prompts/guardrails_writing.md"
+  description: "Purpose–Evidence–Request/Deadline 중심 최소교정 라이팅 코치"
+
+toeic_templates_v1:
+  label: "TOEIC Templates v1"
+  docs:
+    - "server/docs/templates_toeic.md"
+
+toeic_gen_v1:
+  label: "TOEIC Generator Prompt v1"
+  prompts:
+    - "server/config/prompts/prompt_toeic_gen_v1.md"

@@ -1,0 +1,25 @@
+levels:
+  A1:
+    pools:
+      general: ["Nice to meet you.", "Could you say that again, please?", "I don't understand yet."]
+      fluency/hesitation: ["Let me think for a second.", "Give me a moment, please."]
+      grammar/tense: ["I have been to ~.", "I went to ~ yesterday."]
+  A2:
+    pools:
+      general: ["What do you mean by ~?", "Can you give an example?"]
+      vocabulary/word_choice: ["Another way to say ~ is ~.", "I’d rather say ~."]
+  B1:
+    pools:
+      general: ["From my experience, ~", "As far as I know, ~"]
+      register/politeness: ["Would you mind ~ing?", "I'd appreciate it if ~."]
+  B2:
+    pools:
+      general: ["To put it another way, ~", "It depends on ~"]
+      grammar/preposition: ["be interested in ~", "focus on ~"]
+diversity:
+  min_distinct_tags: 2
+novelty:
+  recent_block_days: 7
+bias_by_tag:
+  grammar/tense: ["I have ~", "I've been ~ing", "I had ~"]
+  vocabulary/word_choice: ["A better term might be ~", "More precisely, ~"]

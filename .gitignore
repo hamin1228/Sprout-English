@@ -1,0 +1,73 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+
+# Android
+android/local.properties
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+*.jks
+*.keystore
+
+# iOS/macOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner/GeneratedPluginRegistrant.*
+macos/Pods/
+macos/.symlinks/
+
+# Dart
+*.dart.js
+*.dart.js.deps
+*.dart.js.map
+
+# Python / Server
+server/.env
+server/.env.*
+server/.venv/
+server/__pycache__/
+server/**/__pycache__/
+server/**/*.pyc
+server/**/*.pyo
+server/app/main(*.py
+server/app/schemas(*.py
+server/app/models(*.py
+server/app/db(*.py
+server/.pytest_cache/
+server/migrations/versions/
+*.egg-info/
+dist/
+*.egg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+**/.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iws
+*.ipr
+
+# Logs
+*.log
+logs/
+
+# Secrets
+*.pem
+*.key
+*.p12
+secrets.*

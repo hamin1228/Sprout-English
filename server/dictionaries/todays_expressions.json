@@ -1,0 +1,402 @@
+[
+   {
+      "meaning_ko" : "지금 가는 중이에요.",
+      "expression" : "I'm on my way."
+   },
+   {
+      "expression" : "Could you say that again?",
+      "meaning_ko" : "다시 말씀해 주시겠어요?"
+   },
+   {
+      "expression" : "Let's get started.",
+      "meaning_ko" : "시작해 봅시다."
+   },
+   {
+      "meaning_ko" : "바로 확인할게요.",
+      "expression" : "I'll check it right away."
+   },
+   {
+      "meaning_ko" : "좋네요.",
+      "expression" : "That sounds good."
+   },
+   {
+      "expression" : "Please hold for a moment.",
+      "meaning_ko" : "잠시만 기다려 주세요."
+   },
+   {
+      "expression" : "I'm looking forward to it.",
+      "meaning_ko" : "기대하고 있어요."
+   },
+   {
+      "meaning_ko" : "일정을 다시 잡을 수 있을까요?",
+      "expression" : "Can we reschedule?"
+   },
+   {
+      "expression" : "Thanks for your help.",
+      "meaning_ko" : "도와주셔서 감사합니다."
+   },
+   {
+      "expression" : "I'll get back to you soon.",
+      "meaning_ko" : "곧 다시 연락드리겠습니다."
+   },
+   {
+      "meaning_ko" : "그 부분을 명확히 설명해 주시겠어요?",
+      "expression" : "Could you clarify that point?"
+   },
+   {
+      "meaning_ko" : "다음 안건으로 넘어가죠.",
+      "expression" : "Let's move on to the next item."
+   },
+   {
+      "expression" : "I'm running a bit late.",
+      "meaning_ko" : "조금 늦고 있어요."
+   },
+   {
+      "expression" : "Please keep me updated.",
+      "meaning_ko" : "진행 상황을 계속 알려 주세요."
+   },
+   {
+      "meaning_ko" : "제가 처리하겠습니다.",
+      "expression" : "I'll take care of it."
+   },
+   {
+      "meaning_ko" : "저는 괜찮습니다.",
+      "expression" : "That works for me."
+   },
+   {
+      "meaning_ko" : "세부 내용을 보내 주시겠어요?",
+      "expression" : "Could you send me the details?"
+   },
+   {
+      "meaning_ko" : "일정을 확인합시다.",
+      "expression" : "Let's confirm the schedule."
+   },
+   {
+      "meaning_ko" : "피드백 감사드립니다.",
+      "expression" : "I appreciate your feedback."
+   },
+   {
+      "expression" : "We need to meet the deadline.",
+      "meaning_ko" : "마감일을 맞춰야 합니다."
+   },
+   {
+      "meaning_ko" : "내일 후속 연락드릴게요.",
+      "expression" : "I'll follow up tomorrow."
+   },
+   {
+      "expression" : "Could you walk me through it?",
+      "meaning_ko" : "과정을 설명해 주시겠어요?"
+   },
+   {
+      "meaning_ko" : "이 작업을 우선순위로 두죠.",
+      "expression" : "Let's prioritize this task."
+   },
+   {
+      "expression" : "I'm available after lunch.",
+      "meaning_ko" : "점심 이후에 가능합니다."
+   },
+   {
+      "expression" : "Please review the document.",
+      "meaning_ko" : "문서를 검토해 주세요."
+   },
+   {
+      "meaning_ko" : "곧 파일을 공유하겠습니다.",
+      "expression" : "I'll share the file shortly."
+   },
+   {
+      "expression" : "Can you handle this request?",
+      "meaning_ko" : "이 요청을 처리해 주실 수 있나요?"
+   },
+   {
+      "meaning_ko" : "계획대로 진행합시다.",
+      "expression" : "Let's stay on track."
+   },
+   {
+      "meaning_ko" : "보고서가 거의 준비됐습니다.",
+      "expression" : "The report is almost ready."
+   },
+   {
+      "expression" : "We should double-check the numbers.",
+      "meaning_ko" : "수치를 다시 확인해야 합니다."
+   },
+   {
+      "meaning_ko" : "오늘 이걸 승인해 주실 수 있나요?",
+      "expression" : "Could you approve this today?"
+   },
+   {
+      "expression" : "Let's set up a meeting.",
+      "meaning_ko" : "회의를 잡읍시다."
+   },
+   {
+      "expression" : "I need more time to finish this.",
+      "meaning_ko" : "이걸 마치려면 시간이 더 필요합니다."
+   },
+   {
+      "expression" : "Please let me know your thoughts.",
+      "meaning_ko" : "의견 알려 주세요."
+   },
+   {
+      "expression" : "This option is more cost-effective.",
+      "meaning_ko" : "이 옵션이 더 비용 효율적입니다."
+   },
+   {
+      "expression" : "We're on the same page.",
+      "meaning_ko" : "서로 이해가 같습니다."
+   },
+   {
+      "meaning_ko" : "예산을 염두에 둡시다.",
+      "expression" : "Let's keep the budget in mind."
+   },
+   {
+      "meaning_ko" : "간단히 진행 상황 알려 주시겠어요?",
+      "expression" : "Could you give me a quick update?"
+   },
+   {
+      "expression" : "I'll send the revised version.",
+      "meaning_ko" : "수정본을 보내겠습니다."
+   },
+   {
+      "expression" : "Please attach the invoice.",
+      "meaning_ko" : "청구서를 첨부해 주세요."
+   },
+   {
+      "expression" : "We may need a backup plan.",
+      "meaning_ko" : "대체 계획이 필요할 수 있습니다."
+   },
+   {
+      "meaning_ko" : "이건 따로 논의할 수 있을까요?",
+      "expression" : "Could we discuss this offline?"
+   },
+   {
+      "meaning_ko" : "이제 마무리합시다.",
+      "expression" : "Let's wrap this up."
+   },
+   {
+      "meaning_ko" : "배송이 지연되었습니다.",
+      "expression" : "The shipment has been delayed."
+   },
+   {
+      "meaning_ko" : "팀과 조율하겠습니다.",
+      "expression" : "I'll coordinate with the team."
+   },
+   {
+      "expression" : "Can we push back the deadline?",
+      "meaning_ko" : "마감일을 미룰 수 있을까요?"
+   },
+   {
+      "expression" : "Please submit it by noon.",
+      "meaning_ko" : "정오까지 제출해 주세요."
+   },
+   {
+      "meaning_ko" : "최종 승인이 필요합니다.",
+      "expression" : "We need your final approval."
+   },
+   {
+      "expression" : "I'll prepare an agenda.",
+      "meaning_ko" : "회의 안건을 준비하겠습니다."
+   },
+   {
+      "meaning_ko" : "자원을 효율적으로 배분합시다.",
+      "expression" : "Let's allocate the resources wisely."
+   },
+   {
+      "expression" : "This issue needs immediate attention.",
+      "meaning_ko" : "이 문제는 즉각적인 조치가 필요합니다."
+   },
+   {
+      "meaning_ko" : "근거 데이터를 제공해 주시겠어요?",
+      "expression" : "Could you provide supporting data?"
+   },
+   {
+      "expression" : "We'll proceed as planned.",
+      "meaning_ko" : "계획대로 진행하겠습니다."
+   },
+   {
+      "expression" : "Please keep this confidential.",
+      "meaning_ko" : "이 내용은 기밀로 유지해 주세요."
+   },
+   {
+      "expression" : "Let's revisit this next week.",
+      "meaning_ko" : "다음 주에 다시 논의합시다."
+   },
+   {
+      "expression" : "The proposal is under review.",
+      "meaning_ko" : "제안서는 검토 중입니다."
+   },
+   {
+      "expression" : "I'll escalate this to management.",
+      "meaning_ko" : "이 사안을 경영진에 보고하겠습니다."
+   },
+   {
+      "meaning_ko" : "주요 위험 요소를 정리해 주시겠어요?",
+      "expression" : "Could you outline the main risks?"
+   },
+   {
+      "expression" : "We're experiencing technical difficulties.",
+      "meaning_ko" : "기술적인 문제를 겪고 있습니다."
+   },
+   {
+      "expression" : "Let's finalize the contract terms.",
+      "meaning_ko" : "계약 조건을 최종 확정합시다."
+   },
+   {
+      "expression" : "Please make the necessary adjustments.",
+      "meaning_ko" : "필요한 조정을 해 주세요."
+   },
+   {
+      "expression" : "This falls outside our scope.",
+      "meaning_ko" : "이건 우리 업무 범위를 벗어납니다."
+   },
+   {
+      "expression" : "I'll brief you before the meeting.",
+      "meaning_ko" : "회의 전에 간단히 공유드리겠습니다."
+   },
+   {
+      "expression" : "Could you verify the compliance requirements?",
+      "meaning_ko" : "규정 준수 요건을 확인해 주시겠어요?"
+   },
+   {
+      "expression" : "Let's optimize the workflow.",
+      "meaning_ko" : "업무 흐름을 최적화합시다."
+   },
+   {
+      "expression" : "The figures don't add up.",
+      "meaning_ko" : "수치가 맞지 않습니다."
+   },
+   {
+      "meaning_ko" : "영향이 큰 업무를 우선 처리해 주세요.",
+      "expression" : "Please prioritize high-impact tasks."
+   },
+   {
+      "meaning_ko" : "납기가 매우 촉박합니다.",
+      "expression" : "We're facing a tight turnaround."
+   },
+   {
+      "expression" : "I'll draft a summary for stakeholders.",
+      "meaning_ko" : "이해관계자용 요약본을 작성하겠습니다."
+   },
+   {
+      "meaning_ko" : "목표를 함께 맞출 수 있을까요?",
+      "expression" : "Could we align on the objectives?"
+   },
+   {
+      "expression" : "Let's mitigate the potential risks.",
+      "meaning_ko" : "잠재적 위험을 줄입시다."
+   },
+   {
+      "meaning_ko" : "부서 간 협업이 필요합니다.",
+      "expression" : "This requires cross-functional collaboration."
+   },
+   {
+      "expression" : "Please proceed with caution.",
+      "meaning_ko" : "신중하게 진행해 주세요."
+   },
+   {
+      "meaning_ko" : "회의록을 공유하겠습니다.",
+      "expression" : "I'll circulate the minutes."
+   },
+   {
+      "meaning_ko" : "예상 효과를 수치화할 수 있을까요?",
+      "expression" : "Can we quantify the expected impact?"
+   },
+   {
+      "meaning_ko" : "데이터 정확성을 확보합시다.",
+      "expression" : "Let's ensure data accuracy."
+   },
+   {
+      "meaning_ko" : "일정은 변경될 수 있습니다.",
+      "expression" : "The timeline is subject to change."
+   },
+   {
+      "expression" : "Please flag any discrepancies.",
+      "meaning_ko" : "불일치 사항이 있으면 표시해 주세요."
+   },
+   {
+      "meaning_ko" : "조건을 재협상해야 할 것 같습니다.",
+      "expression" : "We'll need to renegotiate the terms."
+   },
+   {
+      "meaning_ko" : "피드백을 취합해 주시겠어요?",
+      "expression" : "Could you consolidate the feedback?"
+   },
+   {
+      "meaning_ko" : "철저한 검토를 진행합시다.",
+      "expression" : "Let's conduct a thorough review."
+   },
+   {
+      "expression" : "This strategy is not sustainable.",
+      "meaning_ko" : "이 전략은 지속 가능하지 않습니다."
+   },
+   {
+      "expression" : "I'll coordinate the rollout plan.",
+      "meaning_ko" : "실행 계획을 조율하겠습니다."
+   },
+   {
+      "expression" : "Can we justify the additional cost?",
+      "meaning_ko" : "추가 비용을 정당화할 수 있을까요?"
+   },
+   {
+      "meaning_ko" : "승인 절차를 간소화합시다.",
+      "expression" : "Let's streamline the approval process."
+   },
+   {
+      "meaning_ko" : "결과가 기대를 뛰어넘었습니다.",
+      "expression" : "The outcome exceeded our expectations."
+   },
+   {
+      "expression" : "Please address this at your earliest convenience.",
+      "meaning_ko" : "가능한 한 빨리 이 사안을 처리해 주세요."
+   },
+   {
+      "expression" : "We'll reassess the priorities after the audit.",
+      "meaning_ko" : "감사 후 우선순위를 재평가하겠습니다."
+   },
+   {
+      "meaning_ko" : "상세 내역을 제공해 주시겠어요?",
+      "expression" : "Could you provide a detailed breakdown?"
+   },
+   {
+      "meaning_ko" : "장기적인 영향을 평가합시다.",
+      "expression" : "Let's evaluate the long-term implications."
+   },
+   {
+      "meaning_ko" : "이 제안은 근거가 충분하지 않습니다.",
+      "expression" : "This proposal lacks sufficient evidence."
+   },
+   {
+      "expression" : "I'll defer to your judgment on this matter.",
+      "meaning_ko" : "이 사안은 당신의 판단에 따르겠습니다."
+   },
+   {
+      "meaning_ko" : "상호 이익이 되는 합의에 도달할 수 있을까요?",
+      "expression" : "Can we reach a mutually beneficial agreement?"
+   },
+   {
+      "meaning_ko" : "단계적 도입으로 진행합시다.",
+      "expression" : "Let's proceed with a phased implementation."
+   },
+   {
+      "expression" : "The contract is pending legal review.",
+      "meaning_ko" : "계약서는 법무 검토 대기 중입니다."
+   },
+   {
+      "meaning_ko" : "규정 완전 준수를 보장해 주세요.",
+      "expression" : "Please ensure full regulatory compliance."
+   },
+   {
+      "expression" : "We'll need contingency measures in place.",
+      "meaning_ko" : "비상 대책을 마련해 둘 필요가 있습니다."
+   },
+   {
+      "meaning_ko" : "기저 가정들을 자세히 설명해 주시겠어요?",
+      "expression" : "Could you elaborate on the underlying assumptions?"
+   },
+   {
+      "expression" : "Let's reconcile the conflicting reports.",
+      "meaning_ko" : "상충되는 보고 내용을 조정합시다."
+   },
+   {
+      "meaning_ko" : "이 결정은 재정적으로 큰 영향을 미칩니다.",
+      "expression" : "This decision has significant financial implications."
+   }
+]

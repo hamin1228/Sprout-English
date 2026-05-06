@@ -1,0 +1,68 @@
+{
+  "version": "0.1.0",
+  "updated_at": "2025-11-03",
+  "goalsets": [
+    {
+      "id": "ordering_coffee_a2",
+      "title": "Ordering Coffee (A2)",
+      "language": "en",
+      "level": "A2",
+      "required_phrases": [
+        "Can I get",
+        "I would like",
+        "To go",
+        "For here",
+        "That's all, thank you"
+      ],
+      "optional_phrases": [
+        "I'd like a medium",
+        "No sugar, please",
+        "Could you"
+      ],
+      "forbidden_phrases": [],
+      "tone_profile": "polite-formal",
+      "scoring": {
+        "weights": { "coverage": 0.7, "tone": 0.3 },
+        "pass_threshold": 0.75,
+        "assist_threshold": 0.5
+      }
+    },
+    {
+      "id": "job_interview_b1",
+      "title": "Job Interview (B1)",
+      "language": "en",
+      "level": "B1",
+      "required_phrases": [
+        "My strengths are",
+        "I have experience in",
+        "I improved",
+        "I would contribute by"
+      ],
+      "optional_phrases": [
+        "I'm eager to",
+        "I collaborated with",
+        "I learned from"
+      ],
+      "forbidden_phrases": [],
+      "tone_profile": "confident-formal",
+      "scoring": {
+        "weights": { "coverage": 0.7, "tone": 0.3 },
+        "pass_threshold": 0.8,
+        "assist_threshold": 0.55
+      }
+    }
+  ],
+  "intervention_rules": {
+    "low_coverage": {
+      "trigger_below": 0.5,
+      "message_templates": [
+        "Try including the missing phrase: '{phrase}'.",
+        "Great start! You can add: '{phrase}' to meet the goal."
+      ]
+    },
+    "tone_violation": {
+      "flag_words": [],
+      "message": "Mind the tone: keep it {tone_profile}."
+    }
+  }
+}

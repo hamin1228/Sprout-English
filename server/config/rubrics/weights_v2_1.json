@@ -1,0 +1,7 @@
+{
+  "clarity": 0.35,
+  "brevity": 0.15,
+  "over_penalty": 0.35,
+  "under_penalty": 0.25,
+  "_goal": "over+under < 0.10 each on dev set"
+}
