@@ -1,37 +1,54 @@
 # Git
 .git
 .gitignore
+.github
 
-# Flutter / Dart
-build/
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.pub-cache/
-.pub/
-
-# Android / iOS (모바일 앱은 Docker 빌드 대상 아님)
+# Flutter 모바일 앱 (Docker 빌드 대상 아님)
+lib/
 android/
 ios/
 macos/
 linux/
 windows/
 web/
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.yaml
+pubspec.lock
+*.iml
 
-# Python
+# Python 가상환경 / 캐시
 server/.venv/
 server/__pycache__/
-server/**/__pycache__/
-server/**/*.pyc
+**/__pycache__/
+**/*.pyc
+**/*.pyo
 server/app/storage/
 
-# 환경 변수
+# Node.js
+vercel_api/node_modules/
+vercel_api/.next/
+vercel_api/.env
+
+# 환경 변수 (절대 이미지에 포함하면 안 됨)
 .env
 server/.env
+**/.env
 
-# 기타
+# 문서 / 에셋
+docs/
+assets/
+README.md
+
+# IDE / OS
 .DS_Store
 .vscode/
 .idea/
 *.log
-docs/
+
+# 기타 불필요한 파일
+android.bak/
+scripts/
+test/

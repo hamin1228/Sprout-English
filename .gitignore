@@ -36,6 +36,9 @@ macos/.symlinks/
 server/.env
 server/.env.*
 !server/.env.example
+vercel_api/.env
+vercel_api/.env.*
+!vercel_api/.env.example
 server/app/storage/
 server/app/main_*w.py
 server/app/main.py.bak

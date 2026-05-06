@@ -1,38 +1,67 @@
 services:
+  # ─────────────────────────────────────────────
+  # FastAPI 백엔드 (STT / TTS / 대화 / 채점 / DB)
+  # ─────────────────────────────────────────────
   backend:
     build:
       context: ./server
-    container_name: sprout-english-backend
+      dockerfile: Dockerfile
+    container_name: sprout-backend
     ports:
       - "8000:8000"
+    env_file:
+      - server/.env
     environment:
-      DB_USER: ${DB_USER:-ea}
-      DB_PASSWORD: ${DB_PASSWORD:-ea_pw}
       DB_HOST: mysql
       DB_PORT: 3306
-      DB_NAME: ${DB_NAME:-english_ai}
-      OPENAI_API_KEY: ${OPENAI_API_KEY}
     depends_on:
       mysql:
         condition: service_healthy
     volumes:
       - audio_data:/app/app/storage/audio
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/healthz"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
 
+  # ─────────────────────────────────────────────
+  # Next.js API 서버 (Claude Anthropic / 톤 변환)
+  # ─────────────────────────────────────────────
+  vercel-api:
+    build:
+      context: ./vercel_api
+      dockerfile: Dockerfile
+    container_name: sprout-vercel-api
+    ports:
+      - "3000:3000"
+    env_file:
+      - vercel_api/.env
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ─────────────────────────────────────────────
+  # MySQL DB (학습 기록 / 점수 / 단어 저장)
+  # ─────────────────────────────────────────────
   mysql:
     image: mysql:8.4
-    container_name: sprout-english-mysql
+    container_name: sprout-mysql
     ports:
       - "3306:3306"
     environment:
-      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-root_password}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-changeme_root}
       MYSQL_DATABASE: ${DB_NAME:-english_ai}
       MYSQL_USER: ${DB_USER:-ea}
-      MYSQL_PASSWORD: ${DB_PASSWORD:-ea_pw}
+      MYSQL_PASSWORD: ${DB_PASSWORD:-changeme}
     volumes:
       - mysql_data:/var/lib/mysql
     healthcheck:
-      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p${MYSQL_ROOT_PASSWORD:-changeme_root}"]
       interval: 10s
       timeout: 5s
       retries: 5

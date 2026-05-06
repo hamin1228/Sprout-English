@@ -82,46 +82,9 @@ english_ai/
 
 ## 실행 방법
 
-### 방법 A — Docker (추천)
+### 방법 A — Docker (추천, 서버 환경)
 
-사전 준비: Docker Desktop 설치
-
-```bash
-git clone https://github.com/hamin1228/ai_engilsh_03.21.git
-cd ai_engilsh_03.21
-
-# 환경 변수 파일 생성
-cp server/.env.example server/.env
-# server/.env 열어서 OPENAI_API_KEY 입력, DB_HOST=mysql 로 변경
-
-# 백엔드 + MySQL 한 번에 실행
-docker compose up --build
-```
-
-| 서비스 | 주소 |
-|--------|------|
-| FastAPI 백엔드 | http://localhost:8000 |
-| MySQL | localhost:3306 |
-
-```bash
-# 백그라운드 실행
-docker compose up -d --build
-
-# 로그 확인
-docker compose logs -f backend
-
-# 종료
-docker compose down
-
-# DB 데이터까지 완전 삭제
-docker compose down -v
-```
-
----
-
-### 방법 B — 로컬 직접 실행
-
-**사전 준비:** Flutter SDK 3.41+, Python 3.10+, MySQL, Android Studio
+> **사전 준비:** [Docker Desktop](https://www.docker.com/products/docker-desktop/) 설치
 
 #### 1. 저장소 클론
 
@@ -130,16 +93,89 @@ git clone https://github.com/hamin1228/ai_engilsh_03.21.git
 cd ai_engilsh_03.21
 ```
 
-#### 2. 백엔드 설정
+#### 2. 환경 변수 파일 생성
+
+```bash
+cp server/.env.example server/.env
+cp vercel_api/.env.example vercel_api/.env
+```
+
+`server/.env` 에서 아래 항목 수정:
+```env
+DB_HOST=mysql                      # ← 반드시 mysql 로 변경 (Docker 내부 서비스명)
+DB_PASSWORD=your_db_password
+OPENAI_API_KEY=sk-proj-...
+MYSQL_ROOT_PASSWORD=your_root_pw
+```
+
+`vercel_api/.env` 에서 아래 항목 입력:
+```env
+ANTHROPIC_API_KEY=sk-ant-...
+```
+
+#### 3. 전체 서비스 실행
+
+```bash
+docker compose up --build
+```
+
+#### 4. 접속 주소
+
+| 서비스 | 주소 | 역할 |
+|--------|------|------|
+| FastAPI 백엔드 | http://localhost:8000 | STT / TTS / 대화 / 채점 |
+| Next.js API | http://localhost:3000 | 톤 변환 (Claude API) |
+| MySQL | localhost:3306 | 학습 데이터 DB |
+
+#### 유용한 명령어
+
+```bash
+# 백그라운드 실행
+docker compose up -d --build
+
+# 서비스별 로그 확인
+docker compose logs -f backend
+docker compose logs -f vercel-api
+
+# 전체 종료
+docker compose down
+
+# DB 데이터까지 완전 삭제 (초기화)
+docker compose down -v
+```
+
+---
+
+### 방법 B — 로컬 직접 실행 (Flutter 앱 개발 시)
+
+**사전 준비:** Flutter SDK 3.41+, Python 3.10+, Node.js 20+, MySQL, Android Studio
+
+#### 1. 저장소 클론
+
+```bash
+git clone https://github.com/hamin1228/ai_engilsh_03.21.git
+cd ai_engilsh_03.21
+```
+
+#### 2. FastAPI 백엔드 실행
 
 ```bash
 cd server
-cp .env.example .env        # .env 파일 생성 후 API 키 입력
+cp .env.example .env    # OPENAI_API_KEY, DB 정보 입력
 pip install -r requirements.txt
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-#### 3. Flutter 앱 실행
+#### 3. Next.js API 서버 실행
+
+```bash
+cd vercel_api
+cp .env.example .env    # ANTHROPIC_API_KEY 입력
+npm install
+npm run dev             # http://localhost:3000
+```
+
+#### 4. Flutter 앱 실행
 
 ```bash
 cd ..
@@ -147,8 +183,19 @@ flutter pub get
 flutter run
 ```
 
-> Android 에뮬레이터 실행 시 서버 주소는 자동으로 `http://10.0.2.2:8000` 으로 설정됩니다.
+> Android 에뮬레이터 사용 시 서버 주소가 자동으로 `http://10.0.2.2:8000` 으로 설정됩니다.
 > 실물 기기 사용 시 앱 Settings 화면에서 서버 IP를 직접 입력하세요.
+
+---
+
+## GitHub에 올리면 안 되는 파일
+
+```
+server/.env           # DB 비밀번호, OpenAI API Key
+vercel_api/.env       # Anthropic API Key
+```
+
+`.gitignore`에 이미 등록되어 있습니다. `.env.example` 파일만 올리세요.
 
 ---
 
