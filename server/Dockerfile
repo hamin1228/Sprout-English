@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     gcc \
     libsndfile1 \
     ffmpeg \
+    curl \
     && rm -rf /var/lib/apt/lists/*
 
 # --- 의존성 레이어 (소스 변경 시 캐시 재사용) ---

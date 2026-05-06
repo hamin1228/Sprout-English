@@ -89,26 +89,43 @@ english_ai/
 #### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/hamin1228/ai_engilsh_03.21.git
-cd ai_engilsh_03.21
+git clone https://github.com/hamin1228/ai_english_03.21.git
+cd ai_english_03.21
 ```
 
 #### 2. 환경 변수 파일 생성
 
 ```bash
+cp .env.example .env
 cp server/.env.example server/.env
 cp vercel_api/.env.example vercel_api/.env
 ```
 
-`server/.env` 에서 아래 항목 수정:
+| 파일 | 용도 |
+|------|------|
+| `.env` | docker-compose.yml의 MySQL 컨테이너 생성에 사용 |
+| `server/.env` | FastAPI 서버 환경 변수 (OpenAI API Key, DB 접속 정보) |
+| `vercel_api/.env` | Next.js API 환경 변수 (Anthropic API Key) |
+
+> 실제 `.env` 파일들은 `.gitignore`에 등록되어 있어 GitHub에 올라가지 않습니다. `.env.example` 파일만 커밋하세요.
+
+각 파일에서 아래 값을 채워주세요:
+
+`.env`
 ```env
-DB_HOST=mysql                      # ← 반드시 mysql 로 변경 (Docker 내부 서비스명)
+MYSQL_ROOT_PASSWORD=your_root_password
+DB_NAME=english_ai
+DB_USER=ea
 DB_PASSWORD=your_db_password
-OPENAI_API_KEY=sk-proj-...
-MYSQL_ROOT_PASSWORD=your_root_pw
 ```
 
-`vercel_api/.env` 에서 아래 항목 입력:
+`server/.env`
+```env
+DB_PASSWORD=your_db_password
+OPENAI_API_KEY=sk-proj-...
+```
+
+`vercel_api/.env`
 ```env
 ANTHROPIC_API_KEY=sk-ant-...
 ```
@@ -126,6 +143,17 @@ docker compose up --build
 | FastAPI 백엔드 | http://localhost:8000 | STT / TTS / 대화 / 채점 |
 | Next.js API | http://localhost:3000 | 톤 변환 (Claude API) |
 | MySQL | localhost:3306 | 학습 데이터 DB |
+| Redis | localhost:6379 | 캐시 / 작업 큐 |
+
+#### 5. 종료
+
+```bash
+# 전체 종료
+docker compose down
+
+# DB 데이터까지 완전 삭제 (초기화)
+docker compose down -v
+```
 
 #### 유용한 명령어
 
@@ -137,11 +165,8 @@ docker compose up -d --build
 docker compose logs -f backend
 docker compose logs -f vercel-api
 
-# 전체 종료
-docker compose down
-
-# DB 데이터까지 완전 삭제 (초기화)
-docker compose down -v
+# 특정 서비스만 재시작
+docker compose restart backend
 ```
 
 ---
@@ -153,8 +178,8 @@ docker compose down -v
 #### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/hamin1228/ai_engilsh_03.21.git
-cd ai_engilsh_03.21
+git clone https://github.com/hamin1228/ai_english_03.21.git
+cd ai_english_03.21
 ```
 
 #### 2. FastAPI 백엔드 실행

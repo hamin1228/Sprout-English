@@ -23,9 +23,10 @@ WORKDIR /app
 
 ENV NODE_ENV=production
 
+RUN apk add --no-cache curl
+
 COPY --from=build /app/.next/standalone ./
 COPY --from=build /app/.next/static ./.next/static
-COPY --from=build /app/public ./public 2>/dev/null || true
 
 # 루트 권한 제거 (보안)
 RUN addgroup -S appgroup && adduser -S appuser -G appgroup

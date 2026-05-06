@@ -33,6 +33,8 @@ macos/.symlinks/
 *.dart.js.map
 
 # Python / Server
+.env
+!.env.example
 server/.env
 server/.env.*
 !server/.env.example
