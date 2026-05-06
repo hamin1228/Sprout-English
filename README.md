@@ -89,8 +89,8 @@ english_ai/
 #### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/hamin1228/ai_english_03.21.git
-cd ai_english_03.21
+git clone https://github.com/hamin1228/Sprout-English.git
+cd Sprout-English
 ```
 
 #### 2. 환경 변수 파일 생성
@@ -178,8 +178,8 @@ docker compose restart backend
 #### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/hamin1228/ai_english_03.21.git
-cd ai_english_03.21
+git clone https://github.com/hamin1228/Sprout-English.git
+cd Sprout-English
 ```
 
 #### 2. FastAPI 백엔드 실행
