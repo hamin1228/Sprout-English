@@ -35,6 +35,7 @@ macos/.symlinks/
 # Python / Server
 server/.env
 server/.env.*
+!server/.env.example
 server/app/storage/
 server/app/main_*w.py
 server/app/main.py.bak

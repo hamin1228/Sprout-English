@@ -82,22 +82,55 @@ english_ai/
 
 ## 실행 방법
 
-### 사전 준비
+### 방법 A — Docker (추천)
 
-- Flutter SDK 3.41+
-- Python 3.10+
-- Android Studio (에뮬레이터) 또는 실물 기기
-- MySQL 서버
-- OpenAI API Key
+사전 준비: Docker Desktop 설치
 
-### 1. 저장소 클론
+```bash
+git clone https://github.com/hamin1228/ai_engilsh_03.21.git
+cd ai_engilsh_03.21
+
+# 환경 변수 파일 생성
+cp server/.env.example server/.env
+# server/.env 열어서 OPENAI_API_KEY 입력, DB_HOST=mysql 로 변경
+
+# 백엔드 + MySQL 한 번에 실행
+docker compose up --build
+```
+
+| 서비스 | 주소 |
+|--------|------|
+| FastAPI 백엔드 | http://localhost:8000 |
+| MySQL | localhost:3306 |
+
+```bash
+# 백그라운드 실행
+docker compose up -d --build
+
+# 로그 확인
+docker compose logs -f backend
+
+# 종료
+docker compose down
+
+# DB 데이터까지 완전 삭제
+docker compose down -v
+```
+
+---
+
+### 방법 B — 로컬 직접 실행
+
+**사전 준비:** Flutter SDK 3.41+, Python 3.10+, MySQL, Android Studio
+
+#### 1. 저장소 클론
 
 ```bash
 git clone https://github.com/hamin1228/ai_engilsh_03.21.git
 cd ai_engilsh_03.21
 ```
 
-### 2. 백엔드 설정
+#### 2. 백엔드 설정
 
 ```bash
 cd server
@@ -106,7 +139,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-### 3. 프론트엔드 설정
+#### 3. Flutter 앱 실행
 
 ```bash
 cd ..
@@ -115,7 +148,7 @@ flutter run
 ```
 
 > Android 에뮬레이터 실행 시 서버 주소는 자동으로 `http://10.0.2.2:8000` 으로 설정됩니다.
-> 실물 기기 사용 시 Settings 화면에서 서버 IP를 직접 입력하세요.
+> 실물 기기 사용 시 앱 Settings 화면에서 서버 IP를 직접 입력하세요.
 
 ---
 
