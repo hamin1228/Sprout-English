@@ -49,7 +49,7 @@ void main() {
   testWidgets('app starts on main tab shell home screen', (tester) async {
     _useLargeSurface(tester);
 
-    await tester.pumpWidget(const FlutterScreensTestApp());
+    await tester.pumpWidget(const SproutEnglishApp());
     await tester.pumpAndSettle();
 
     expect(find.byType(MainTabShellPage), findsOneWidget);
