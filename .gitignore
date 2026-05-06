@@ -35,6 +35,17 @@ macos/.symlinks/
 # Python / Server
 server/.env
 server/.env.*
+server/app/storage/
+server/app/main_*w.py
+server/app/main.py.bak
+server/app/**/*.bak
+server/app/rate_limit(*).py
+server/app/routers/speaking(*).py
+server/pyproject*.toml
+!server/pyproject.toml
+server/demo.wav
+server/silence.wav
+android.bak/
 server/.venv/
 server/__pycache__/
 server/**/__pycache__/
