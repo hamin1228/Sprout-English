@@ -7,10 +7,15 @@ import 'server_config.dart';
 final dioProvider = Provider<Dio>((ref) {
   final dio = Dio(
     BaseOptions(
-      baseUrl: serverBaseUrl,
       connectTimeout: const Duration(seconds: 10),
       receiveTimeout: const Duration(seconds: 30),
     ),
   );
+  dio.interceptors.add(InterceptorsWrapper(
+    onRequest: (options, handler) {
+      options.baseUrl = serverBaseUrl;
+      handler.next(options);
+    },
+  ));
   return dio;
 });

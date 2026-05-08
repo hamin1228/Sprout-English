@@ -133,13 +133,23 @@ class _PushToTalkFreeTalkScreenExactState
   final List<double> _waveformLevels = List<double>.filled(_waveBarCount, 0.18);
   final String _chatUid =
       'ft_${DateTime.now().microsecondsSinceEpoch}_${math.Random().nextInt(1 << 30)}';
-  late final Dio _ttsDio = Dio(
-    BaseOptions(
-      baseUrl: serverBaseUrl,
-      connectTimeout: const Duration(seconds: 4),
-      receiveTimeout: const Duration(seconds: 45),
-    ),
-  );
+  late final Dio _ttsDio = () {
+    final dio = Dio(
+      BaseOptions(
+        connectTimeout: const Duration(seconds: 4),
+        receiveTimeout: const Duration(seconds: 45),
+      ),
+    );
+    dio.interceptors.add(
+      InterceptorsWrapper(
+        onRequest: (options, handler) {
+          options.baseUrl = serverBaseUrl;
+          handler.next(options);
+        },
+      ),
+    );
+    return dio;
+  }();
 
   AudioRecorder? _audioRecorder;
   AudioPlayer _audioPlayer = AudioPlayer();

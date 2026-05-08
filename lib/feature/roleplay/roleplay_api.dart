@@ -14,12 +14,22 @@ class RoleplayApi {
           dio ??
           Dio(
             BaseOptions(
-              baseUrl: serverBaseUrl,
               connectTimeout: const Duration(seconds: 10),
               receiveTimeout: const Duration(seconds: 30),
             ),
           ),
-      _bundle = bundle ?? rootBundle;
+      _bundle = bundle ?? rootBundle {
+    if (dio == null) {
+      _dio.interceptors.add(
+        InterceptorsWrapper(
+          onRequest: (options, handler) {
+            options.baseUrl = serverBaseUrl;
+            handler.next(options);
+          },
+        ),
+      );
+    }
+  }
 
   final Dio _dio;
   final AssetBundle _bundle;

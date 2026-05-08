@@ -5,6 +5,20 @@ import '../../core/network/server_config.dart';
 import '../../core/settings/app_settings_store.dart';
 import '../../core/statistics/learning_activity_recorder.dart';
 
+Dio _makeDio() {
+  final dio = Dio(BaseOptions(
+    connectTimeout: const Duration(seconds: 10),
+    receiveTimeout: const Duration(seconds: 30),
+  ));
+  dio.interceptors.add(InterceptorsWrapper(
+    onRequest: (options, handler) {
+      options.baseUrl = serverBaseUrl;
+      handler.next(options);
+    },
+  ));
+  return dio;
+}
+
 enum VocabEntryMode { study, quiz }
 
 enum VocabPhase { setup, memorizing, readyForQuiz, quiz }
@@ -74,7 +88,7 @@ class VocabPage extends StatefulWidget {
 }
 
 class _VocabPageState extends State<VocabPage> {
-  final Dio _dio = Dio(BaseOptions(baseUrl: serverBaseUrl));
+  final Dio _dio = _makeDio();
 
   final Color _bg = const Color(0xFFF6F7F8);
   final Color _primary = const Color(0xFF137FEC);

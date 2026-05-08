@@ -4,14 +4,21 @@ import '../../../core/network/server_config.dart';
 import '../models/toeic_writing_models.dart';
 
 class ToeicWritingApi {
-  ToeicWritingApi()
-    : _dio = Dio(
-        BaseOptions(
-          baseUrl: serverBaseUrl,
-          connectTimeout: const Duration(seconds: 6),
-          receiveTimeout: const Duration(seconds: 30),
-        ),
-      );
+  ToeicWritingApi() : _dio = _makeDio();
+
+  static Dio _makeDio() {
+    final dio = Dio(BaseOptions(
+      connectTimeout: const Duration(seconds: 6),
+      receiveTimeout: const Duration(seconds: 30),
+    ));
+    dio.interceptors.add(InterceptorsWrapper(
+      onRequest: (options, handler) {
+        options.baseUrl = serverBaseUrl;
+        handler.next(options);
+      },
+    ));
+    return dio;
+  }
 
   final Dio _dio;
 
