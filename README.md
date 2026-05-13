@@ -453,6 +453,79 @@ gh repo edit hamin1228/Sprout-English \
 
 ---
 
+## 회원가입 / 로그인 기능
+
+### 새 백엔드 API
+
+| Method | Endpoint | 설명 | 인증 필요 |
+|--------|----------|------|-----------|
+| POST | `/auth/signup` | 이메일/비밀번호 회원가입 | ❌ |
+| POST | `/auth/login` | 로그인 → access/refresh token 발급 | ❌ |
+| GET | `/auth/me` | 현재 로그인 유저 정보 조회 | ✅ Bearer |
+| POST | `/auth/refresh` | refresh_token → 새 access_token 발급 | ❌ |
+| POST | `/auth/logout` | 서버 응답 `{ok: true}` (클라이언트 토큰 삭제) | ✅ Bearer |
+
+### 새 환경변수 (`server/.env`)
+
+```env
+JWT_SECRET_KEY=your-strong-random-secret   # 운영 환경에서 반드시 변경
+JWT_ALGORITHM=HS256
+ACCESS_TOKEN_EXPIRE_MINUTES=60
+REFRESH_TOKEN_EXPIRE_DAYS=14
+```
+
+### curl 테스트 예시
+
+```bash
+# 회원가입
+curl -X POST http://localhost:8000/auth/signup \
+  -H "Content-Type: application/json" \
+  -d '{"email":"test@example.com","password":"password123","nickname":"test"}'
+
+# 로그인
+curl -X POST http://localhost:8000/auth/login \
+  -H "Content-Type: application/json" \
+  -d '{"email":"test@example.com","password":"password123"}'
+
+# 내 정보 조회 (ACCESS_TOKEN은 로그인 응답의 access_token)
+curl http://localhost:8000/auth/me \
+  -H "Authorization: Bearer <ACCESS_TOKEN>"
+
+# 토큰 재발급
+curl -X POST http://localhost:8000/auth/refresh \
+  -H "Content-Type: application/json" \
+  -d '{"refresh_token":"<REFRESH_TOKEN>"}'
+```
+
+### Flutter 실행 방법
+
+```bash
+# iPhone 실기기에서 Mac 로컬 서버에 연결
+flutter run --dart-define=ENGLISH_AI_SERVER_BASE_URL=http://<맥북Wi-FiIP>:8000
+
+# 예시
+flutter run --dart-define=ENGLISH_AI_SERVER_BASE_URL=http://192.168.0.12:8000
+```
+
+> ⚠️ **iPhone 실기기 주의**: `localhost` / `127.0.0.1`은 iPhone 자기 자신을 의미합니다.  
+> Mac 서버에 접속하려면 반드시 Mac의 Wi-Fi IP를 사용해야 합니다.  
+> 앱 설정 화면에서 서버 주소를 런타임으로 변경하는 것도 가능합니다(재빌드 불필요).
+
+### 앱 인증 흐름
+
+1. 앱 실행 → secure storage에 access_token 확인
+2. 토큰 있음 → `/auth/me` 호출 → 성공 시 홈 화면 이동
+3. 토큰 없음 / 만료 → 로그인 화면 표시
+4. 로그아웃 → Settings 탭 → 로그아웃 버튼 → 로컬 토큰 삭제 → 로그인 화면
+
+### 로그아웃 방식
+
+JWT stateless 방식이므로 서버는 `{ok: true}`만 반환합니다.  
+Flutter 클라이언트에서 `flutter_secure_storage` 토큰을 삭제하는 방식으로 로그아웃합니다.  
+추후 Redis token blacklist 방식으로 서버 측 무효화 확장 가능합니다.
+
+---
+
 ## 라이선스
 
 This project is licensed under the [MIT License](LICENSE).
