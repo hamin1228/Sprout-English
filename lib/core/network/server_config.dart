@@ -1,3 +1,13 @@
+// ⚠️ iPhone 실기기 주의사항:
+// localhost / 127.0.0.1은 iPhone 자기 자신을 가리킨다. Mac 서버에 접속하려면
+// Mac의 Wi-Fi IP(예: 192.168.0.12)를 사용해야 한다.
+//
+// 방법 1 - dart-define (빌드 시 고정):
+//   flutter run --dart-define=ENGLISH_AI_SERVER_BASE_URL=http://192.168.0.12:8000
+//
+// 방법 2 - 런타임 설정 (앱 설정 화면에서 변경, 재빌드 불필요):
+//   앱 내 Settings → 서버 주소 입력란에 직접 입력.
+
 import 'dart:io' show Platform;
 
 import 'package:flutter/foundation.dart' show kIsWeb;
@@ -31,7 +41,7 @@ String get serverBaseUrl {
       return 'http://10.0.2.2:8000';
     }
   } catch (_) {}
-  return 'http://127.0.0.1:8000';
+  return 'http://192.0.0.2:8000';
 }
 
 Uri serverWebSocketUri(String path) {

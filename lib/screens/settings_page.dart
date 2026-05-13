@@ -2,11 +2,13 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:record/record.dart';
 
+import '../core/auth/auth_controller.dart';
 import '../core/network/server_config.dart';
 import '../core/settings/app_settings.dart';
 import '../core/settings/app_settings_store.dart';
@@ -459,6 +461,16 @@ class _SettingsPageState extends State<SettingsPage> {
               subtitle: '저장된 환경설정을 모두 기본값으로 되돌립니다.',
               titleColor: Color(0xFFD14343),
               onTap: _resetSettings,
+            ),
+            Consumer(
+              builder: (context, ref, _) => _SettingsActionTile(
+                title: '로그아웃',
+                subtitle: '현재 계정에서 로그아웃합니다.',
+                titleColor: Color(0xFFD14343),
+                onTap: () async {
+                  await ref.read(authControllerProvider.notifier).logout();
+                },
+              ),
             ),
           ],
         ),
