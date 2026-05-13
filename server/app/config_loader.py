@@ -37,6 +37,14 @@ class Settings(BaseSettings):
     EMBED_DIM: int = Field(default=384)
     VECTOR_ROOT: str = Field(default="server/data/vector")
 
+    # ── JWT ──────────────────────────────────────────────────────────────────
+    # 운영 환경에서는 반드시 강한 랜덤 문자열로 교체해야 한다.
+    # 예: openssl rand -hex 32
+    JWT_SECRET_KEY: str = "change-this-to-a-long-random-secret"
+    JWT_ALGORITHM: str = "HS256"
+    ACCESS_TOKEN_EXPIRE_MINUTES: int = 60
+    REFRESH_TOKEN_EXPIRE_DAYS: int = 14
+
     # ── App ───────────────────────────────────────────────────────────────────
     APP_ENV: str = "development"             # development | production
     LOG_LEVEL: str = "INFO"

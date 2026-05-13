@@ -29,6 +29,10 @@ _DEFAULTS = {
     "APP_ENV": "test",
     "LOG_LEVEL": "ERROR",
     "MYSQL_ROOT_PASSWORD": "testroot",
+    "JWT_SECRET_KEY": "test-secret-key-for-testing-only",
+    "JWT_ALGORITHM": "HS256",
+    "ACCESS_TOKEN_EXPIRE_MINUTES": "60",
+    "REFRESH_TOKEN_EXPIRE_DAYS": "14",
 }
 
 for key, value in _DEFAULTS.items():

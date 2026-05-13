@@ -15,6 +15,7 @@ from app.core.audio import DEFAULT_STORAGE_LOCAL_PATH, DEFAULT_TTS_MODEL, DEFAUL
 from app.db import init_db
 from app.metrics import metrics_store
 from app.routers import writing
+from app.routers.auth import router as auth_router
 from app.routers.health import router as health_router
 from app.routers.speech import router as speech_router
 from app.routers.chat import router as chat_router
@@ -43,6 +44,7 @@ app.add_middleware(
 )
 
 # ── Routers ───────────────────────────────────────────────────────────────────
+app.include_router(auth_router)
 app.include_router(tts_router)
 app.include_router(writing.router)
 app.include_router(health_router)

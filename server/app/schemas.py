@@ -4,9 +4,42 @@
 from __future__ import annotations
 
 from typing import List, Optional, Dict, Any, Literal
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, ConfigDict
 from datetime import datetime
 from uuid import uuid4
+
+
+# ── Auth Schemas ──────────────────────────────────────────────────────────────
+
+class UserCreate(BaseModel):
+    email: str = Field(..., min_length=3, max_length=255)
+    password: str = Field(..., min_length=8, max_length=128)
+    nickname: Optional[str] = Field(default=None, max_length=64)
+
+
+class UserLogin(BaseModel):
+    email: str
+    password: str
+
+
+class UserOut(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+    public_id: str
+    email: str
+    nickname: Optional[str] = None
+    is_active: bool
+    created_at: datetime
+
+
+class TokenResponse(BaseModel):
+    access_token: str
+    refresh_token: str
+    token_type: str = "bearer"
+    user: UserOut
+
+
+class RefreshTokenRequest(BaseModel):
+    refresh_token: str
 
 # 말하기 점수 산출 요청 모델
 # - transcript: 전체 발화 텍스트
