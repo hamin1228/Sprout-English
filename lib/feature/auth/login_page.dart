@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
 
 import '../../core/auth/auth_controller.dart';
 import '../../screens/theme.dart';
-import 'signup_page.dart';
 
 class LoginPage extends ConsumerStatefulWidget {
   const LoginPage({super.key});
@@ -133,10 +133,7 @@ class _LoginPageState extends ConsumerState<LoginPage> {
                   ),
                   const SizedBox(height: 12),
                   TextButton(
-                    onPressed: () => Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (_) => const SignupPage()),
-                    ),
+                    onPressed: () => context.push('/signup'),
                     child: const Text(
                       '계정이 없으신가요? 회원가입',
                       style: TextStyle(color: AppTheme.primary),

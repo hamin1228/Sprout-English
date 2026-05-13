@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:go_router/go_router.dart';
 
 import '../../core/auth/auth_controller.dart';
 import '../../screens/theme.dart';
@@ -42,13 +43,6 @@ class _SignupPageState extends ConsumerState<SignupPage> {
   Widget build(BuildContext context) {
     final auth = ref.watch(authControllerProvider);
     final theme = Theme.of(context);
-
-    // 회원가입 성공 시 스택을 다 팝해서 AuthGate가 홈으로 이동
-    ref.listen(authControllerProvider, (_, next) {
-      if (next.isAuthenticated && mounted) {
-        Navigator.of(context).popUntil((r) => r.isFirst);
-      }
-    });
 
     return Scaffold(
       backgroundColor: AppTheme.backgroundLight,
@@ -166,7 +160,7 @@ class _SignupPageState extends ConsumerState<SignupPage> {
                 ),
                 const SizedBox(height: 12),
                 TextButton(
-                  onPressed: () => Navigator.pop(context),
+                  onPressed: () => context.pop(),
                   child: const Text(
                     '이미 계정이 있으신가요? 로그인',
                     style: TextStyle(color: AppTheme.primary),
