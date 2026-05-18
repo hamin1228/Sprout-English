@@ -118,7 +118,7 @@ final appRouterProvider = Provider<GoRouter>((ref) {
 
 // GoRouter refreshListenable에 Riverpod 인증 상태 변화를 연결하는 헬퍼
 class _AuthListenable extends ChangeNotifier {
-  _AuthListenable(ProviderRef ref) {
+  _AuthListenable(Ref ref) {
     ref.listen(authControllerProvider, (_, __) => notifyListeners());
   }
 }

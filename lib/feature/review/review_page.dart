@@ -86,7 +86,7 @@ class _ReviewPageState extends State<ReviewPage> {
     ),
   ];
 
-  Set<String> _selectedTags = {};
+  final Set<String> _selectedTags = {};
   late TodaysExpression _currentExpression;
   final Random _random = Random();
 
@@ -284,7 +284,7 @@ class _ReviewSummaryHeader extends StatelessWidget {
     final theme = Theme.of(context);
     return Card(
       elevation: 0,
-      color: theme.colorScheme.primaryContainer.withOpacity(0.5),
+      color: theme.colorScheme.primaryContainer.withValues(alpha: 0.5),
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
         child: Row(
@@ -361,7 +361,7 @@ class _TodaysExpressionCard extends StatelessWidget {
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(16),
         side: BorderSide(
-          color: theme.colorScheme.primary.withOpacity(0.2),
+          color: theme.colorScheme.primary.withValues(alpha: 0.2),
         ),
       ),
       child: Padding(
@@ -530,9 +530,9 @@ class ReviewCardWidget extends StatelessWidget {
                       const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                   decoration: BoxDecoration(
                     color: isDue
-                        ? theme.colorScheme.errorContainer.withOpacity(0.4)
+                        ? theme.colorScheme.errorContainer.withValues(alpha: 0.4)
                         : theme.colorScheme.secondaryContainer
-                            .withOpacity(0.4),
+                            .withValues(alpha: 0.4),
                     borderRadius: BorderRadius.circular(12),
                   ),
                   child: Text(

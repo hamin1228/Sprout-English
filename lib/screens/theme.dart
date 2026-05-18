@@ -20,8 +20,8 @@ class AppTheme {
   static const Color accent = Color(0xFF50E3C2);
   
   // 보더 색상
-  static Color get borderLight => Colors.black.withOpacity(0.1);
-  static Color get borderDark => Colors.white.withOpacity(0.1);
+  static Color get borderLight => Colors.black.withValues(alpha: 0.1);
+  static Color get borderDark => Colors.white.withValues(alpha: 0.1);
   
   /// Material 3 라이트 테마
   static ThemeData lightTheme = ThemeData(
@@ -31,6 +31,7 @@ class AppTheme {
       primary: primary,
       secondary: primary,
       surface: Colors.white,
+      // ignore: deprecated_member_use
       background: backgroundLight,
     ),
     scaffoldBackgroundColor: backgroundLight,
@@ -122,6 +123,7 @@ class AppTheme {
       primary: primary,
       secondary: primary,
       surface: const Color(0xFF1C1C1E),
+      // ignore: deprecated_member_use
       background: backgroundDark,
     ),
     scaffoldBackgroundColor: backgroundDark,

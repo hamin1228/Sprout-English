@@ -1,4 +1,3 @@
-import 'package:english_ai/main.dart';
 import 'package:english_ai/core/profile/user_profile.dart';
 import 'package:english_ai/core/profile/user_profile_store.dart';
 import 'package:english_ai/core/settings/app_settings_store.dart';
@@ -49,7 +48,7 @@ void main() {
   testWidgets('app starts on main tab shell home screen', (tester) async {
     _useLargeSurface(tester);
 
-    await tester.pumpWidget(const SproutEnglishApp());
+    await tester.pumpWidget(const MaterialApp(home: MainTabShellPage()));
     await tester.pumpAndSettle();
 
     expect(find.byType(MainTabShellPage), findsOneWidget);

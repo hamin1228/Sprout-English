@@ -28,13 +28,13 @@ class DiffResult {
       decoration: TextDecoration.underline,
       decorationThickness: 2,
       decorationStyle: TextDecorationStyle.solid,
-      backgroundColor: Theme.of(context).colorScheme.primary.withOpacity(0.08),
+      backgroundColor: Theme.of(context).colorScheme.primary.withValues(alpha: 0.08),
     );
     final delStyle = TextStyle(
       decoration: TextDecoration.lineThrough,
       decorationThickness: 2,
       color: Theme.of(context).colorScheme.error,
-      backgroundColor: Theme.of(context).colorScheme.errorContainer.withOpacity(0.25),
+      backgroundColor: Theme.of(context).colorScheme.errorContainer.withValues(alpha: 0.25),
     );
     final keepStyle = const TextStyle();
 

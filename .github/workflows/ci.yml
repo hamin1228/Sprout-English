@@ -16,7 +16,7 @@ jobs:
 
       - uses: subosito/flutter-action@v2
         with:
-          flutter-version: "3.32.0"
+          flutter-version: "3.41.4"
           channel: stable
           cache: true
 
@@ -68,4 +68,8 @@ jobs:
           CORS_ORIGINS: "*"
           APP_ENV: test
           LOG_LEVEL: ERROR
+          JWT_SECRET_KEY: ci-test-secret-key
+          JWT_ALGORITHM: HS256
+          ACCESS_TOKEN_EXPIRE_MINUTES: "60"
+          REFRESH_TOKEN_EXPIRE_DAYS: "14"
         run: python -m pytest tests/ -v

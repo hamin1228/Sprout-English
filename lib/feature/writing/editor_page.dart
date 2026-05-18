@@ -96,6 +96,7 @@ class _EditorPageState extends State<EditorPage> {
             children: [
               Expanded(
                 child: DropdownButtonFormField<String>(
+                  // ignore: deprecated_member_use
                   value: _selectedTemplate,
                   decoration: const InputDecoration(
                     labelText: '템플릿 선택',

@@ -40,15 +40,18 @@ class JustAudioRoleplayTtsPlayer implements RoleplayTtsPlayer {
   }
 }
 
+// ignore: experimental_member_use
 class _MemoryAudioSource extends StreamAudioSource {
   _MemoryAudioSource(this.bytes);
 
   final Uint8List bytes;
 
   @override
+  // ignore: experimental_member_use
   Future<StreamAudioResponse> request([int? start, int? end]) async {
     final safeStart = start ?? 0;
     final safeEnd = end ?? bytes.length;
+    // ignore: experimental_member_use
     return StreamAudioResponse(
       sourceLength: bytes.length,
       contentLength: safeEnd - safeStart,
