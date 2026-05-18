@@ -374,14 +374,31 @@ pytest tests/ -v
 
 ---
 
-## 향후 개선 계획
+## 개발 현황
 
-- [ ] Qwen3-ASR-1.7B 온디바이스 STT 완전 통합
+### 완료
+- [x] JWT 기반 사용자 인증 (회원가입 / 로그인 / 토큰 갱신 / 로그아웃)
+- [x] FastAPI 모듈 분리 (main.py → core/ + routers/ 구조 리팩토링)
+- [x] CI/CD 파이프라인 (GitHub Actions) 구성
+- [x] Flutter 인증 UI 및 Riverpod 기반 인증 상태 관리
+- [x] AI 프리토킹 (WebSocket 실시간 스트리밍)
+- [x] 스피킹 평가 (WPM / 침묵 비율 / 유창성 채점)
+- [x] 글쓰기 교정 및 TOEIC Writing
+- [x] SRS 단어 복습 (SM-2 알고리즘)
+- [x] 롤플레이 시나리오 (카페 / 공항 / 회의)
+- [x] 학습 통계 및 진도 시각화
+- [x] Docker Compose 원클릭 배포 환경
+
+### 진행 중
+- [ ] 401 응답 시 refresh_token 자동 재시도 로직
+- [ ] 톤 변환(Paraphrase) UI 렌더링 완성
+- [ ] 패턴 드릴 화면 구현
+
+### 향후 계획
+- [ ] Qwen3-ASR-1.7B 온디바이스 STT 통합
 - [ ] iOS 빌드 및 TestFlight 배포
-- [ ] JWT 기반 사용자 인증 추가
+- [ ] Redis token blacklist (로그아웃 서버 측 무효화)
 - [ ] 학습 데이터 시각화 대시보드 고도화
-- [ ] CI/CD 파이프라인 (GitHub Actions) 구성
-- [ ] FastAPI 모듈 분리 (main.py 리팩토링)
 
 ---
 
@@ -389,6 +406,7 @@ pytest tests/ -v
 
 - Flutter + Riverpod 기반 전체 UI 설계 및 구현
 - go_router 기반 선언형 네비게이션 아키텍처 구성
+- **JWT 인증 플로우 완성**: 회원가입 · 로그인 화면, flutter_secure_storage 토큰 저장, 앱 시작 시 `/auth/me` 검증 → 자동 라우팅
 - WebSocket 실시간 AI 대화 화면 (push-to-talk + 스트리밍 응답)
 - 스피킹 평가 결과 시각화 (WPM, 침묵 비율, 유창성 점수 카드)
 - SM-2 SRS 단어 복습 UI 플로우 구현
@@ -396,6 +414,7 @@ pytest tests/ -v
 - TOEIC Writing 문제 화면 및 AI 채점 결과 표시
 - `record` + `just_audio` 패키지 통합으로 음성 녹음 / 재생 파이프라인 구현
 - Android Emulator / 실물 기기 서버 IP 동적 설정 기능
+- 학습 통계 대시보드 (연속 학습일, 세션 점수 추이, 활동 기록 시각화)
 
 ---
 
