@@ -22,6 +22,7 @@ services:
         condition: service_started
     volumes:
       - audio_data:/app/app/storage/audio
+      - ./assets/roleplay:/assets/roleplay:ro
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/healthz"]
@@ -55,7 +56,7 @@ services:
     image: mysql:8.4
     container_name: sprout-mysql
     ports:
-      - "3306:3306"
+      - "3307:3306"
     environment:
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-changeme_root}
       MYSQL_DATABASE: ${DB_NAME:-english_ai}

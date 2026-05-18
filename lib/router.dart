@@ -9,10 +9,10 @@ import 'feature/drill/drill_page.dart';
 import 'feature/free_talk/free_talk_page.dart';
 import 'feature/healthz/healthz_page.dart';
 import 'feature/paraphrase/paraphrase_page.dart';
-import 'feature/record/record_page.dart';
 import 'feature/review/review_page.dart';
 import 'feature/roleplay/roleplay_page.dart';
 import 'feature/speaking/speaking_page.dart';
+import 'screens/main_tab_shell_page.dart';
 import 'feature/vocab/vocab_page.dart';
 import 'feature/writing/toeic_writing_page.dart';
 import 'feature/writing/writing_hub_page.dart';
@@ -47,8 +47,8 @@ final appRouterProvider = Provider<GoRouter>((ref) {
       ),
       GoRoute(
         path: '/',
-        name: 'record',
-        builder: (context, state) => const RecordPage(),
+        name: 'home',
+        builder: (context, state) => const MainTabShellPage(),
       ),
       GoRoute(
         path: '/healthz',
