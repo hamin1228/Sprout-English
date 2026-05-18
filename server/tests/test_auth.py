@@ -128,3 +128,16 @@ async def test_refresh_token(client: AsyncClient):
     resp = await client.post("/auth/refresh", json={"refresh_token": refresh_token})
     assert resp.status_code == 200
     assert "access_token" in resp.json()
+
+
+@pytest.mark.anyio
+async def test_refresh_invalid_token(client: AsyncClient):
+    resp = await client.post("/auth/refresh", json={"refresh_token": "invalid.token.value"})
+    assert resp.status_code == 401
+
+
+@pytest.mark.anyio
+async def test_logout(client: AsyncClient):
+    resp = await client.post("/auth/logout")
+    assert resp.status_code == 200
+    assert resp.json() == {"ok": True}

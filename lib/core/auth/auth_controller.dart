@@ -44,12 +44,44 @@ class AuthController extends Notifier<AuthState> {
         state = const AuthState(status: AuthStatus.unauthenticated);
         return;
       }
-      final user = await authApi.me(token);
-      state = AuthState(status: AuthStatus.authenticated, user: user);
+
+      try {
+        final user = await authApi.me(token);
+        state = AuthState(status: AuthStatus.authenticated, user: user);
+        return;
+      } on DioException catch (e) {
+        // 401이 아니면 그냥 실패 처리
+        if (e.response?.statusCode != 401) rethrow;
+      }
+
+      // /auth/me 가 401 → refresh token으로 재발급 시도
+      final refreshToken = await authTokenStorage.getRefreshToken();
+      if (refreshToken == null || refreshToken.isEmpty) {
+        await authTokenStorage.clearTokens();
+        state = const AuthState(status: AuthStatus.unauthenticated);
+        return;
+      }
+
+      try {
+        final resp = await authApi.refresh(refreshToken);
+        await authTokenStorage.saveTokens(
+          accessToken: resp.accessToken,
+          refreshToken: resp.refreshToken,
+        );
+        state = AuthState(status: AuthStatus.authenticated, user: resp.user);
+      } catch (_) {
+        await authTokenStorage.clearTokens();
+        state = const AuthState(status: AuthStatus.unauthenticated);
+      }
     } catch (_) {
       await authTokenStorage.clearTokens();
       state = const AuthState(status: AuthStatus.unauthenticated);
     }
+  }
+
+  /// Dio interceptor에서 refresh 실패 시 호출 — 토큰은 이미 삭제된 상태
+  void forceUnauthenticated() {
+    state = const AuthState(status: AuthStatus.unauthenticated);
   }
 
   Future<void> signup({
