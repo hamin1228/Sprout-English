@@ -4,6 +4,7 @@ import io
 import math
 import re
 import struct
+import time
 import uuid
 from datetime import datetime
 from pathlib import Path
@@ -99,6 +100,27 @@ def _is_unstable_wav_signal(profile: Optional[Dict[str, float]]) -> bool:
     looks_like_full_scale_tone = peak >= 0.98 and 0.68 <= rms <= 0.73 and 160.0 <= tone_hz <= 320.0
     looks_like_clipped_input = peak >= 0.99 and rms >= 0.55 and clipped_ratio >= 0.015
     return looks_like_full_scale_tone or looks_like_clipped_input
+
+
+def cleanup_old_audio_files(directory: str, max_age_hours: int = 24) -> int:
+    """directory 안에서 max_age_hours보다 오래된 파일을 삭제하고 삭제한 파일 수를 반환한다.
+
+    임시 오디오 파일 전용으로만 사용할 것. 자동 실행되지 않으며 관리자가 직접 호출해야 한다.
+    예: cleanup_old_audio_files("./app/storage/audio", max_age_hours=48)
+    """
+    base = Path(directory)
+    if not base.exists():
+        return 0
+    cutoff = time.time() - max_age_hours * 3600
+    deleted = 0
+    for f in base.rglob("*"):
+        if f.is_file() and f.stat().st_mtime < cutoff:
+            try:
+                f.unlink()
+                deleted += 1
+            except OSError:
+                pass
+    return deleted
 
 
 async def validate_and_save_audio(file: UploadFile, request: Request) -> dict:

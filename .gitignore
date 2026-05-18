@@ -43,6 +43,7 @@ vercel_api/.env.*
 !vercel_api/.env.example
 server/app/storage/
 server/app/main_*w.py
+server/app/main_local_stt.py
 server/app/main.py.bak
 server/app/**/*.bak
 server/app/rate_limit(*).py
