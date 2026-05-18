@@ -60,6 +60,7 @@ register_realtime_speech_routes(app)
 
 # ── Static files ─────────────────────────────────────────────────────────────
 _static_dir = getattr(settings, "STORAGE_LOCAL_PATH", DEFAULT_STORAGE_LOCAL_PATH)
+os.makedirs(_static_dir, exist_ok=True)
 app.mount("/static", StaticFiles(directory=_static_dir, html=False), name="static")
 
 # ── Middleware ────────────────────────────────────────────────────────────────

@@ -1,7 +1,11 @@
 from __future__ import annotations
+from pathlib import Path
 from typing import List
 from pydantic_settings import BaseSettings
 from pydantic import Field
+
+# config_loader.py → app/ → server/ → .env
+_ENV_FILE = str(Path(__file__).parent.parent / ".env")
 
 
 class Settings(BaseSettings):
@@ -50,7 +54,7 @@ class Settings(BaseSettings):
     LOG_LEVEL: str = "INFO"
 
     class Config:
-        env_file = "server/.env"
+        env_file = _ENV_FILE
 
 
 settings = Settings()
